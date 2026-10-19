@@ -1,0 +1,6 @@
+[out:json][timeout:90];
+(
+  way["amenity"="university"]["name"~"华中科技大学"](30.47,114.37,30.56,114.48);
+  relation["amenity"="university"]["name"~"华中科技大学"](30.47,114.37,30.56,114.48);
+);
+out tags center bb;

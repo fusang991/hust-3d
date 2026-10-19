@@ -1,0 +1,20 @@
+{
+  "name": "hust-3d-campus",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Procedurally generated interactive 3D model of the Huazhong University of Science and Technology campus (Three.js).",
+  "scripts": {
+    "start": "node serve.mjs",
+    "serve": "node serve.mjs 8081"
+  },
+  "keywords": [
+    "three.js",
+    "3d",
+    "campus",
+    "hust",
+    "webgl",
+    "procedural"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,1033 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-19T08:57:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 97079457,
+  "center": {
+    "lat": 30.5154986,
+    "lon": 114.4117294
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 98832807,
+  "center": {
+    "lat": 30.5118702,
+    "lon": 114.4158700
+  },
+  "tags": {
+    "landuse": "residential",
+    "name": "沁苑",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 98867852,
+  "center": {
+    "lat": 30.5188059,
+    "lon": 114.4087662
+  },
+  "tags": {
+    "amenity": "marketplace",
+    "name": "集贸市场"
+  }
+},
+{
+  "type": "way",
+  "id": 98867853,
+  "center": {
+    "lat": 30.5128128,
+    "lon": 114.4268736
+  },
+  "tags": {
+    "amenity": "library",
+    "name": "东校区图书馆"
+  }
+},
+{
+  "type": "way",
+  "id": 98867875,
+  "center": {
+    "lat": 30.5190642,
+    "lon": 114.4188053
+  },
+  "tags": {
+    "landuse": "residential",
+    "name": "喻园小区",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 102161669,
+  "center": {
+    "lat": 30.5100598,
+    "lon": 114.4114061
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 102161673,
+  "center": {
+    "lat": 30.5105597,
+    "lon": 114.4113080
+  },
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 102161674,
+  "center": {
+    "lat": 30.5096864,
+    "lon": 114.4113907
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 103488139,
+  "center": {
+    "lat": 30.5154724,
+    "lon": 114.4291816
+  },
+  "tags": {
+    "building:levels": "3",
+    "building:part": "yes",
+    "name": "韵苑体育馆"
+  }
+},
+{
+  "type": "way",
+  "id": 103495743,
+  "center": {
+    "lat": 30.5125638,
+    "lon": 114.4119302
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "name": "醉晚亭"
+  }
+},
+{
+  "type": "way",
+  "id": 103495744,
+  "center": {
+    "lat": 30.5125521,
+    "lon": 114.4160292
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东九舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 104126942,
+  "center": {
+    "lat": 30.5183920,
+    "lon": 114.4179604
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园27/28/29单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126945,
+  "center": {
+    "lat": 30.5178188,
+    "lon": 114.4163598
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园1/2单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126946,
+  "center": {
+    "lat": 30.5188933,
+    "lon": 114.4174387
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园5/6单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126948,
+  "center": {
+    "lat": 30.5180017,
+    "lon": 114.4178007
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园17/18/19/20单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126949,
+  "center": {
+    "lat": 30.5183295,
+    "lon": 114.4168928
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园3/4单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126950,
+  "center": {
+    "lat": 30.5176751,
+    "lon": 114.4171511
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园8/9单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126953,
+  "center": {
+    "lat": 30.5192586,
+    "lon": 114.4181947
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园7单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126954,
+  "center": {
+    "lat": 30.5176173,
+    "lon": 114.4178004
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园10/11单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126970,
+  "center": {
+    "lat": 30.5175786,
+    "lon": 114.4184969
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园12/13单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126971,
+  "center": {
+    "lat": 30.5174781,
+    "lon": 114.4196360
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园14/15/16单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464198,
+  "center": {
+    "lat": 30.5180419,
+    "lon": 114.4187034
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园21/22单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464523,
+  "center": {
+    "lat": 30.5179784,
+    "lon": 114.4193840
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园23/24单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464758,
+  "center": {
+    "lat": 30.5184129,
+    "lon": 114.4187933
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园30/31单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464759,
+  "center": {
+    "lat": 30.5183716,
+    "lon": 114.4194183
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园32/33单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464760,
+  "center": {
+    "lat": 30.5180177,
+    "lon": 114.4200379
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园25/26单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465094,
+  "center": {
+    "lat": 30.5191418,
+    "lon": 114.4188711
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园36/37单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465095,
+  "center": {
+    "lat": 30.5183805,
+    "lon": 114.4201009
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园34/35单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465096,
+  "center": {
+    "lat": 30.5190760,
+    "lon": 114.4194840
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园38/39单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465247,
+  "center": {
+    "lat": 30.5187825,
+    "lon": 114.4201456
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园40/41单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465577,
+  "center": {
+    "lat": 30.5195358,
+    "lon": 114.4188651
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园42/43单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465580,
+  "center": {
+    "lat": 30.5194750,
+    "lon": 114.4195734
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园44/45单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465636,
+  "center": {
+    "lat": 30.5191640,
+    "lon": 114.4201920
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园46/47单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465953,
+  "center": {
+    "lat": 30.5203454,
+    "lon": 114.4189279
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园54/55单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465954,
+  "center": {
+    "lat": 30.5203143,
+    "lon": 114.4197620
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园56/57单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465955,
+  "center": {
+    "lat": 30.5198938,
+    "lon": 114.4196392
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园50/51单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465956,
+  "center": {
+    "lat": 30.5199747,
+    "lon": 114.4189033
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园48/49单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465957,
+  "center": {
+    "lat": 30.5195266,
+    "lon": 114.4202485
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园52/53单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466209,
+  "center": {
+    "lat": 30.5203524,
+    "lon": 114.4206088
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园71单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466210,
+  "center": {
+    "lat": 30.5196848,
+    "lon": 114.4210970
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园66/67单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466213,
+  "center": {
+    "lat": 30.5193868,
+    "lon": 114.4209547
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园64/65单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466214,
+  "center": {
+    "lat": 30.5199846,
+    "lon": 114.4210994
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园68/69/70单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466215,
+  "center": {
+    "lat": 30.5198949,
+    "lon": 114.4203169
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园58/59单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466216,
+  "center": {
+    "lat": 30.5190955,
+    "lon": 114.4208716
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园62/63单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466218,
+  "center": {
+    "lat": 30.5188137,
+    "lon": 114.4207782
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园60/61单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466220,
+  "center": {
+    "lat": 30.5204656,
+    "lon": 114.4212100
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园72单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466829,
+  "center": {
+    "lat": 30.5204934,
+    "lon": 114.4162831
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园1#"
+  }
+},
+{
+  "type": "way",
+  "id": 104466832,
+  "center": {
+    "lat": 30.5205962,
+    "lon": 114.4172921
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园2#"
+  }
+},
+{
+  "type": "way",
+  "id": 104466833,
+  "center": {
+    "lat": 30.5206378,
+    "lon": 114.4181288
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园3#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467134,
+  "center": {
+    "lat": 30.5200567,
+    "lon": 114.4162868
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园4#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467135,
+  "center": {
+    "lat": 30.5200694,
+    "lon": 114.4173042
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园5#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467137,
+  "center": {
+    "lat": 30.5197621,
+    "lon": 114.4163027
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园8#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467138,
+  "center": {
+    "lat": 30.5200762,
+    "lon": 114.4180946
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园6#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467141,
+  "center": {
+    "lat": 30.5195797,
+    "lon": 114.4172765
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园7#"
+  }
+},
+{
+  "type": "way",
+  "id": 104635023,
+  "center": {
+    "lat": 30.5143049,
+    "lon": 114.4060190
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "name": "主校区图书馆老馆",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 105249247,
+  "center": {
+    "lat": 30.5167430,
+    "lon": 114.4024158
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十二舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 109355313,
+  "center": {
+    "lat": 30.5043030,
+    "lon": 114.3842906
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "武汉工程大学体育馆"
+  }
+},
+{
+  "type": "way",
+  "id": 109357216,
+  "center": {
+    "lat": 30.5048012,
+    "lon": 114.3855655
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "height": "50",
+    "name": "武汉工程大学图书馆",
+    "operator": "武汉工程大学"
+  }
+},
+{
+  "type": "way",
+  "id": 282652446,
+  "center": {
+    "lat": 30.5244345,
+    "lon": 114.3927564
+  },
+  "tags": {
+    "building": "yes",
+    "name": "体育馆及体育学院"
+  }
+},
+{
+  "type": "way",
+  "id": 282652900,
+  "center": {
+    "lat": 30.5209292,
+    "lon": 114.3937993
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "library": "university",
+    "name": "中国地质大学图书馆",
+    "operator": "中国地质大学"
+  }
+},
+{
+  "type": "way",
+  "id": 283734562,
+  "center": {
+    "lat": 30.5299938,
+    "lon": 114.3955060
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "北区体育馆"
+  }
+},
+{
+  "type": "way",
+  "id": 655063741,
+  "center": {
+    "lat": 30.5182261,
+    "lon": 114.4092701
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "喻园大道",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 1012125578,
+  "center": {
+    "lat": 30.5110085,
+    "lon": 114.4112344
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 1012125579,
+  "center": {
+    "lat": 30.5114233,
+    "lon": 114.4112468
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 1012125580,
+  "center": {
+    "lat": 30.5112424,
+    "lon": 114.4112255
+  },
+  "tags": {
+    "highway": "unclassified",
+    "junction": "circular",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 1012125585,
+  "center": {
+    "lat": 30.5117679,
+    "lon": 114.4112836
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 1012527761,
+  "center": {
+    "lat": 30.5173660,
+    "lon": 114.4180442
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "喻园路",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 1017328197,
+  "center": {
+    "lat": 30.5203550,
+    "lon": 114.4122944
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153414,
+  "center": {
+    "lat": 30.5148676,
+    "lon": 114.4058908
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "name": "主校区图书馆"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153563,
+  "center": {
+    "lat": 30.5103797,
+    "lon": 114.4126962
+  },
+  "tags": {
+    "building": "yes",
+    "height": "30",
+    "leisure": "sports_centre",
+    "level": "1",
+    "name": "光谷体育馆",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153567,
+  "center": {
+    "lat": 30.5184937,
+    "lon": 114.4091910
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "喻园餐厅"
+  }
+},
+{
+  "type": "way",
+  "id": 1023544717,
+  "center": {
+    "lat": 30.5157584,
+    "lon": 114.4212399
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "5",
+    "name": "东九教学楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1228689192,
+  "center": {
+    "lat": 30.5126587,
+    "lon": 114.4221045
+  },
+  "tags": {
+    "landuse": "residential",
+    "name": "联投喻园",
+    "residential": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 1483567121,
+  "center": {
+    "lat": 30.5194348,
+    "lon": 114.4121976
+  },
+  "tags": {
+    "highway": "unclassified",
+    "name": "醉晚路"
+  }
+},
+{
+  "type": "way",
+  "id": 1528174866,
+  "center": {
+    "lat": 30.5188282,
+    "lon": 114.4025515
+  },
+  "tags": {
+    "highway": "service",
+    "name": "喻园大道",
+    "source": "GPS"
+  }
+},
+{
+  "type": "relation",
+  "id": 13699933,
+  "center": {
+    "lat": 30.5111963,
+    "lon": 114.4015789
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "university",
+    "name": "西十二楼",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13705236,
+  "center": {
+    "lat": 30.5148110,
+    "lon": 114.4232442
+  },
+  "tags": {
+    "intermittent": "no",
+    "name": "东九湖",
+    "natural": "water",
+    "salt": "no",
+    "tidal": "no",
+    "type": "multipolygon",
+    "water": "lake"
+  }
+},
+{
+  "type": "relation",
+  "id": 13705821,
+  "center": {
+    "lat": 30.5096020,
+    "lon": 114.4284552
+  },
+  "tags": {
+    "building": "yes",
+    "name": "新光电信息大楼",
+    "operator": "华中科技大学",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14428307,
+  "center": {
+    "lat": 30.5151431,
+    "lon": 114.4036713
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "青年园",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20973247,
+  "center": {
+    "lat": 30.5150210,
+    "lon": 114.4061233
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "name": "主校区图书馆新馆 逸夫图书馆",
+    "operator": "华中科技大学",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 21002505,
+  "center": {
+    "lat": 30.4897002,
+    "lon": 114.3867037
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "name": "中南民族大学图书馆",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

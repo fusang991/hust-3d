@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>华中科技大学 · 3D 校园</title>
+    <meta name="description" content="华中科技大学校园的交互式三维模型：主校门、图书馆、东西教学楼、光谷体育馆、喻家山等。" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22%3E%3Crect width=%2264%22 height=%2264%22 rx=%2212%22 fill=%22%230b1219%22/%3E%3Ctext x=%2232%22 y=%2241%22 font-family=%22Georgia,serif%22 font-size=%2220%22 font-weight=%22bold%22 fill=%22%23d9b877%22 text-anchor=%22middle%22%3EHUST%3C/text%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="./src/style.css" />
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "./vendor/three.module.js",
+          "three/addons/": "./vendor/addons/"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <canvas id="scene"></canvas>
+    <div id="labels"></div>
+
+    <header class="hud">
+      <div class="brand">
+        <div class="seal">HUST</div>
+        <div class="brand-text">
+          <h1>华中科技大学</h1>
+          <p>HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY</p>
+        </div>
+      </div>
+      <div class="hud-actions">
+        <div class="group" role="group" aria-label="时间">
+          <button id="btn-day" class="chip active" type="button">日景</button>
+          <button id="btn-dusk" class="chip" type="button">黄昏</button>
+          <button id="btn-night" class="chip" type="button">夜景</button>
+        </div>
+        <span class="sep"></span>
+        <button id="btn-labels" class="chip active" type="button">标注</button>
+        <button id="btn-names" class="chip active" type="button">楼名</button>
+        <button id="btn-rotate" class="chip" type="button">自动巡游</button>
+        <button id="btn-reset" class="chip" type="button">重置</button>
+      </div>
+    </header>
+
+    <aside id="panel">
+      <div class="panel-head">
+        <h2>校园地标</h2>
+        <button id="panel-toggle" type="button" aria-label="收起地标列表">收起</button>
+      </div>
+      <div class="panel-tools">
+        <input id="building-search" type="search" placeholder="搜索建筑 / 院系 / 食堂 / 体育场…" autocomplete="off" />
+        <div id="cat-chips" class="cat-chips"></div>
+      </div>
+      <ul id="landmarks"></ul>
+      <div class="panel-footer">
+        <p class="motto">明德厚学 · 求是创新</p>
+        <p>喻家山南 · 珞喻路 1037 号</p>
+        <p class="dim">示意性数字模型 · 底图数据 © OpenStreetMap 贡献者（ODbL）</p>
+      </div>
+    </aside>
+
+    <section id="card" class="hidden" aria-live="polite">
+      <button id="card-close" type="button" aria-label="关闭">×</button>
+      <h3 id="card-title"></h3>
+      <p id="card-en" class="en"></p>
+      <p id="card-desc"></p>
+    </section>
+
+    <footer id="hint">
+      <span class="mouse">拖拽旋转</span>
+      <span>滚轮缩放</span>
+      <span>右键平移</span>
+      <span>点击地标定位</span>
+      <span class="keys">1/2/3 昼夜 · L 标注 · R 重置</span>
+      <span id="stats"></span>
+    </footer>
+
+    <div id="loader">
+      <div class="loader-inner">
+        <div class="loader-seal">HUST</div>
+        <div class="loader-title">华中科技大学</div>
+        <div class="loader-en">HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY</div>
+        <div class="loader-bar"><i></i></div>
+        <div class="loader-sub" id="loader-sub">正在构建三维校园…</div>
+      </div>
+    </div>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

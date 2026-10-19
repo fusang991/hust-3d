@@ -1,0 +1,791 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-19T08:55:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1150858919,
+  "lat": 30.5141662,
+  "lon": 114.4308375,
+  "tags": {
+    "access": "no",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1179083162,
+  "lat": 30.5100667,
+  "lon": 114.4031286,
+  "tags": {
+    "access": "permit",
+    "barrier": "lift_gate",
+    "name": "南三门"
+  }
+},
+{
+  "type": "node",
+  "id": 1179083164,
+  "lat": 30.5103137,
+  "lon": 114.4046136,
+  "tags": {
+    "access": "permit",
+    "barrier": "lift_gate",
+    "name": "南二门"
+  }
+},
+{
+  "type": "node",
+  "id": 1179089188,
+  "lat": 30.5097656,
+  "lon": 114.4113965,
+  "tags": {
+    "access": "permit",
+    "barrier": "lift_gate",
+    "entrance": "main",
+    "name": "南四门"
+  }
+},
+{
+  "type": "node",
+  "id": 1186770495,
+  "lat": 30.5182041,
+  "lon": 114.4160470,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1186770558,
+  "lat": 30.5185073,
+  "lon": 114.4209378,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1186784737,
+  "lat": 30.5171599,
+  "lon": 114.4261920,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1194858783,
+  "lat": 30.5162800,
+  "lon": 114.4288034,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1194858814,
+  "lat": 30.5164782,
+  "lon": 114.4267576,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1194867133,
+  "lat": 30.5158802,
+  "lon": 114.4278826,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1194867217,
+  "lat": 30.5157977,
+  "lon": 114.4285201,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1197937974,
+  "lat": 30.5127706,
+  "lon": 114.4272068,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1197948527,
+  "lat": 30.5156331,
+  "lon": 114.4321829,
+  "tags": {
+    "access": "no",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1197948530,
+  "lat": 30.5146509,
+  "lon": 114.4312735,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1198286958,
+  "lat": 30.5149465,
+  "lon": 114.4144801,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1198426890,
+  "lat": 30.5165786,
+  "lon": 114.4259738,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1201512674,
+  "lat": 30.5171590,
+  "lon": 114.4292810,
+  "tags": {
+    "access": "no",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1203937281,
+  "lat": 30.5150242,
+  "lon": 114.4199933,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1203937286,
+  "lat": 30.5126874,
+  "lon": 114.4191018,
+  "tags": {
+    "access": "permit",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1212918179,
+  "lat": 30.5184001,
+  "lon": 114.4161233,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1260821650,
+  "lat": 30.5096113,
+  "lon": 114.4126146,
+  "tags": {
+    "access": "no",
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1260850927,
+  "lat": 30.5139266,
+  "lon": 114.3953708,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1260855436,
+  "lat": 30.5124895,
+  "lon": 114.3959068,
+  "tags": {
+    "access": "permit",
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "locked": "no",
+    "material": "metal",
+    "moped": "yes",
+    "motor_vehicle": "no",
+    "motorcycle": "yes",
+    "name": "华中科技大学西小门(紫菘门)",
+    "swing_gate:type": "紫菘门",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2438783698,
+  "lat": 30.5206017,
+  "lon": 114.4220620,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "喻家湖路华工东北门",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2438783702,
+  "lat": 30.5206194,
+  "lon": 114.4218816,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "喻家湖路华工东北门",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2864434524,
+  "lat": 30.5246377,
+  "lon": 114.3961099,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 2864441873,
+  "lat": 30.5228705,
+  "lon": 114.3960797,
+  "tags": {
+    "name": "中国地质大学(武汉)东二门;中国地质大学(武汉)西二门"
+  }
+},
+{
+  "type": "node",
+  "id": 2877837882,
+  "lat": 30.5194636,
+  "lon": 114.4004235,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motor_vehicle": "yes",
+    "name": "喻家山庄西门"
+  }
+},
+{
+  "type": "node",
+  "id": 2877837891,
+  "lat": 30.5201987,
+  "lon": 114.4018046,
+  "tags": {
+    "barrier": "gate",
+    "name": "喻家山庄北门"
+  }
+},
+{
+  "type": "node",
+  "id": 3061061241,
+  "lat": 30.5261045,
+  "lon": 114.3991438,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 3089153546,
+  "lat": 30.5220911,
+  "lon": 114.4027999,
+  "tags": {
+    "barrier": "gate",
+    "motor_vehicle": "no",
+    "name": "地大东区东门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807101959,
+  "lat": 30.5175211,
+  "lon": 114.3977309,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motor_vehicle": "yes",
+    "name": "中国地质大学（武汉）东区南门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807102323,
+  "lat": 30.5236573,
+  "lon": 114.4021238,
+  "tags": {
+    "barrier": "gate",
+    "name": "地大附校门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807102395,
+  "lat": 30.5219916,
+  "lon": 114.4030705,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "permit",
+    "foot": "permit",
+    "name": "西北门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807102397,
+  "lat": 30.5331006,
+  "lon": 114.3925678,
+  "tags": {
+    "barrier": "gate",
+    "name": "中国地质大学（武汉）北区大门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807242063,
+  "lat": 30.5249802,
+  "lon": 114.3935672,
+  "tags": {
+    "barrier": "gate",
+    "name": "南望山庄西门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807859876,
+  "lat": 30.5185774,
+  "lon": 114.3955742,
+  "tags": {
+    "access": "no",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 4807859882,
+  "lat": 30.5209337,
+  "lon": 114.3960115,
+  "tags": {
+    "entrance": "yes",
+    "name": "中国地质大学（武汉）东一门",
+    "ref": "东区大门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807859888,
+  "lat": 30.5209426,
+  "lon": 114.3954839,
+  "tags": {
+    "entrance": "yes",
+    "name": "中国地质大学（武汉）西一门",
+    "ref": "西区大门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807859893,
+  "lat": 30.5228726,
+  "lon": 114.3959418,
+  "tags": {
+    "access": "no",
+    "barrier": "gate",
+    "name": "中国地质大学西二门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807859896,
+  "lat": 30.5228688,
+  "lon": 114.3962396,
+  "tags": {
+    "barrier": "gate",
+    "name": "中国地质大学东二门"
+  }
+},
+{
+  "type": "node",
+  "id": 6449009095,
+  "lat": 30.5252694,
+  "lon": 114.3967097,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 6497296595,
+  "lat": 30.5368475,
+  "lon": 114.4134236,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 6508233853,
+  "lat": 30.5250550,
+  "lon": 114.3969885,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 9230058748,
+  "lat": 30.5119318,
+  "lon": 114.4088678,
+  "tags": {
+    "entrance": "yes",
+    "name": "南一楼东门"
+  }
+},
+{
+  "type": "node",
+  "id": 9311585509,
+  "lat": 30.5101081,
+  "lon": 114.4181358,
+  "tags": {
+    "access": "permissive",
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 9311585510,
+  "lat": 30.5093931,
+  "lon": 114.4163252,
+  "tags": {
+    "access": "permissive",
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 9312560820,
+  "lat": 30.5203768,
+  "lon": 114.4280427,
+  "tags": {
+    "access": "permissive",
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 9333584349,
+  "lat": 30.5206873,
+  "lon": 114.4310056,
+  "tags": {
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motor_vehicle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9337684390,
+  "lat": 30.5100420,
+  "lon": 114.4116132,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 9348647981,
+  "lat": 30.5066068,
+  "lon": 114.4183461,
+  "tags": {
+    "access": "permissive",
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 9442093347,
+  "lat": 30.5102460,
+  "lon": 114.4080447,
+  "tags": {
+    "access": "permit",
+    "barrier": "gate",
+    "bicycle": "permit",
+    "entrance": "main",
+    "foot": "permit",
+    "name": "南大门",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9442093348,
+  "lat": 30.5102768,
+  "lon": 114.4076353,
+  "tags": {
+    "access": "permit",
+    "barrier": "gate",
+    "bicycle": "permit",
+    "entrance": "main",
+    "foot": "permit",
+    "name": "南大门",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9632492172,
+  "lat": 30.5058446,
+  "lon": 114.4014792,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 10003207174,
+  "lat": 30.5123771,
+  "lon": 114.3945833,
+  "tags": {
+    "barrier": "lift_gate",
+    "bicycle": "no",
+    "foot": "yes",
+    "motor_vehicle": "permit"
+  }
+},
+{
+  "type": "node",
+  "id": 10760636757,
+  "lat": 30.5038639,
+  "lon": 114.4002825,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 11816035306,
+  "lat": 30.5061304,
+  "lon": 114.4006987,
+  "tags": {
+    "barrier": "gate",
+    "name": "正门"
+  }
+},
+{
+  "type": "node",
+  "id": 12376377347,
+  "lat": 30.5008024,
+  "lon": 114.4062460,
+  "tags": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single"
+  }
+},
+{
+  "type": "node",
+  "id": 12376377350,
+  "lat": 30.5016889,
+  "lon": 114.4060227,
+  "tags": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single"
+  }
+},
+{
+  "type": "node",
+  "id": 12376377353,
+  "lat": 30.5016916,
+  "lon": 114.4059723,
+  "tags": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single"
+  }
+},
+{
+  "type": "node",
+  "id": 12376377362,
+  "lat": 30.5008563,
+  "lon": 114.4062535,
+  "tags": {
+    "barrier": "lift_gate",
+    "lift_gate:type": "single"
+  }
+},
+{
+  "type": "node",
+  "id": 13357591187,
+  "lat": 30.5120854,
+  "lon": 114.4204475,
+  "tags": {
+    "barrier": "wicket_gate",
+    "bicycle": "no",
+    "entrance": "yes",
+    "foot": "permit",
+    "horse": "no",
+    "motor_vehicle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13410962294,
+  "lat": 30.5228250,
+  "lon": 114.3957769,
+  "tags": {
+    "barrier": "yes",
+    "name": "地大西二门"
+  }
+},
+{
+  "type": "node",
+  "id": 13523288409,
+  "lat": 30.5118108,
+  "lon": 114.4229429,
+  "tags": {
+    "access": "permit",
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13603842027,
+  "lat": 30.5163639,
+  "lon": 114.4277925,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13603842068,
+  "lat": 30.5141283,
+  "lon": 114.4258113,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13603842069,
+  "lat": 30.5143192,
+  "lon": 114.4253602,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13603842120,
+  "lat": 30.5082171,
+  "lon": 114.4283837,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13669105398,
+  "lat": 30.5212916,
+  "lon": 114.4323719,
+  "tags": {
+    "information": "visitor_centre",
+    "name": "西门驿站",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13669165753,
+  "lat": 30.5190031,
+  "lon": 114.4280083,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13669165754,
+  "lat": 30.5201250,
+  "lon": 114.4278538,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13689968736,
+  "lat": 30.5393197,
+  "lon": 114.3900562,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13690049072,
+  "lat": 30.5344417,
+  "lon": 114.3935997,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13926351876,
+  "lat": 30.5175334,
+  "lon": 114.3991043,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 13934932149,
+  "lat": 30.5178661,
+  "lon": 114.4139341,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "way",
+  "id": 1009118314,
+  "center": {
+    "lat": 30.5207673,
+    "lon": 114.4216267
+  },
+  "tags": {
+    "access": "permit",
+    "barrier": "lift_gate",
+    "name": "东北门"
+  }
+}
+
+  ]
+}

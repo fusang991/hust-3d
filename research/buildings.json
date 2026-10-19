@@ -1,0 +1,6964 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-19T08:49:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 98865822,
+  "bounds": {
+    "minlat": 30.5138955,
+    "minlon": 114.4291129,
+    "maxlat": 30.5144616,
+    "maxlon": 114.4300525
+  },
+  "tags": {
+    "building": "yes",
+    "name": "脉冲强磁场实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 98865824,
+  "bounds": {
+    "minlat": 30.5146986,
+    "minlon": 114.4312714,
+    "maxlat": 30.5156983,
+    "maxlon": 114.4320853
+  },
+  "tags": {
+    "building": "school",
+    "building:levels": "3",
+    "name": "工程实训中心"
+  }
+},
+{
+  "type": "way",
+  "id": 98865829,
+  "bounds": {
+    "minlat": 30.5146257,
+    "minlon": 114.4299886,
+    "maxlat": 30.5151429,
+    "maxlon": 114.4311271
+  },
+  "tags": {
+    "building": "school",
+    "name": "环境学院"
+  }
+},
+{
+  "type": "way",
+  "id": 98867867,
+  "bounds": {
+    "minlat": 30.5123621,
+    "minlon": 114.4193027,
+    "maxlat": 30.5140658,
+    "maxlon": 114.4212195
+  },
+  "tags": {
+    "building": "yes",
+    "layer": "1",
+    "name": "东十七楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 98867881,
+  "bounds": {
+    "minlat": 30.5129715,
+    "minlon": 114.4272062,
+    "maxlat": 30.5132304,
+    "maxlon": 114.4283332
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "10",
+    "name": "东十一教学楼",
+    "name:zh": "生命科学学院"
+  }
+},
+{
+  "type": "way",
+  "id": 98868030,
+  "bounds": {
+    "minlat": 30.5175403,
+    "minlon": 114.4097451,
+    "maxlat": 30.5181550,
+    "maxlon": 114.4117109
+  },
+  "tags": {
+    "building": "yes",
+    "name": "管理学院",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 98868568,
+  "bounds": {
+    "minlat": 30.5165065,
+    "minlon": 114.4080317,
+    "maxlat": 30.5171392,
+    "maxlon": 114.4089151
+  },
+  "tags": {
+    "building": "yes",
+    "name": "大学生活动中心",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 98868572,
+  "bounds": {
+    "minlat": 30.5157474,
+    "minlon": 114.4061977,
+    "maxlat": 30.5164221,
+    "maxlon": 114.4070020
+  },
+  "tags": {
+    "building": "university",
+    "building:levels": "12",
+    "layer": "1",
+    "name": "逸夫科技楼"
+  }
+},
+{
+  "type": "way",
+  "id": 98869006,
+  "bounds": {
+    "minlat": 30.5115523,
+    "minlon": 114.4068168,
+    "maxlat": 30.5124771,
+    "maxlon": 114.4092914
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "7",
+    "name": "南一楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 98869012,
+  "bounds": {
+    "minlat": 30.5108993,
+    "minlon": 114.4048992,
+    "maxlat": 30.5115992,
+    "maxlon": 114.4058281
+  },
+  "tags": {
+    "building": "yes",
+    "name": "南四楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 98869014,
+  "bounds": {
+    "minlat": 30.5127255,
+    "minlon": 114.4037896,
+    "maxlat": 30.5131068,
+    "maxlon": 114.4047500
+  },
+  "tags": {
+    "building": "yes",
+    "name": "西五楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 98869695,
+  "bounds": {
+    "minlat": 30.5176413,
+    "minlon": 114.4133386,
+    "maxlat": 30.5177644,
+    "maxlon": 114.4137678
+  },
+  "tags": {
+    "building": "yes",
+    "name": "湖改江泵房水池"
+  }
+},
+{
+  "type": "way",
+  "id": 98869696,
+  "bounds": {
+    "minlat": 30.5158392,
+    "minlon": 114.4053970,
+    "maxlat": 30.5163378,
+    "maxlon": 114.4059966
+  },
+  "tags": {
+    "building": "office",
+    "name": "档案馆及电话科"
+  }
+},
+{
+  "type": "way",
+  "id": 98965867,
+  "bounds": {
+    "minlat": 30.5060898,
+    "minlon": 114.3937406,
+    "maxlat": 30.5072565,
+    "maxlon": 114.3955378
+  },
+  "tags": {
+    "building": "commercial",
+    "building:levels": "5",
+    "name": "光谷资本大厦",
+    "name:en": "Optics Valley Plaza"
+  }
+},
+{
+  "type": "way",
+  "id": 102751873,
+  "bounds": {
+    "minlat": 30.5158683,
+    "minlon": 114.4075780,
+    "maxlat": 30.5160429,
+    "maxlon": 114.4078707
+  },
+  "tags": {
+    "building": "yes",
+    "name": "出版社印刷厂"
+  }
+},
+{
+  "type": "way",
+  "id": 102751875,
+  "bounds": {
+    "minlat": 30.5167909,
+    "minlon": 114.4090262,
+    "maxlat": 30.5171583,
+    "maxlon": 114.4092756
+  },
+  "tags": {
+    "building": "office",
+    "name": "财务处"
+  }
+},
+{
+  "type": "way",
+  "id": 102751879,
+  "bounds": {
+    "minlat": 30.5159590,
+    "minlon": 114.4082906,
+    "maxlat": 30.5162056,
+    "maxlon": 114.4087422
+  },
+  "tags": {
+    "building": "university",
+    "name": "南九楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103487619,
+  "bounds": {
+    "minlat": 30.5144022,
+    "minlon": 114.4267806,
+    "maxlat": 30.5146449,
+    "maxlon": 114.4276037
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑三栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103487623,
+  "bounds": {
+    "minlat": 30.5148834,
+    "minlon": 114.4268479,
+    "maxlat": 30.5150760,
+    "maxlon": 114.4276487
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑四栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103488178,
+  "bounds": {
+    "minlat": 30.5112589,
+    "minlon": 114.4263251,
+    "maxlat": 30.5114960,
+    "maxlon": 114.4266402
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "东校区教工活动中心"
+  }
+},
+{
+  "type": "way",
+  "id": 103495014,
+  "bounds": {
+    "minlat": 30.5121650,
+    "minlon": 114.4264742,
+    "maxlat": 30.5124758,
+    "maxlon": 114.4271334
+  },
+  "tags": {
+    "building": "yes",
+    "name": "远程教育与继续教育学院"
+  }
+},
+{
+  "type": "way",
+  "id": 103495732,
+  "bounds": {
+    "minlat": 30.5134642,
+    "minlon": 114.4107358,
+    "maxlat": 30.5140665,
+    "maxlon": 114.4113632
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东三楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103495733,
+  "bounds": {
+    "minlat": 30.5124508,
+    "minlon": 114.4018507,
+    "maxlat": 30.5130543,
+    "maxlon": 114.4024090
+  },
+  "tags": {
+    "building": "university",
+    "name": "西二楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103495734,
+  "bounds": {
+    "minlat": 30.5157244,
+    "minlon": 114.3995625,
+    "maxlat": 30.5158653,
+    "maxlon": 114.3999295
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "西八楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103495735,
+  "bounds": {
+    "minlat": 30.5164408,
+    "minlon": 114.4010621,
+    "maxlat": 30.5168068,
+    "maxlon": 114.4013671
+  },
+  "tags": {
+    "building": "university",
+    "name": "西区综合体"
+  }
+},
+{
+  "type": "way",
+  "id": 103495738,
+  "bounds": {
+    "minlat": 30.5160083,
+    "minlon": 114.3992622,
+    "maxlat": 30.5165352,
+    "maxlon": 114.3998328
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "西二食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 103495739,
+  "bounds": {
+    "minlat": 30.5158843,
+    "minlon": 114.4000984,
+    "maxlat": 30.5162291,
+    "maxlon": 114.4013054
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西六舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103495740,
+  "bounds": {
+    "minlat": 30.5134720,
+    "minlon": 114.4018082,
+    "maxlat": 30.5137073,
+    "maxlon": 114.4023962
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "化学楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103495743,
+  "bounds": {
+    "minlat": 30.5125078,
+    "minlon": 114.4118660,
+    "maxlat": 30.5126198,
+    "maxlon": 114.4119944
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "name": "醉晚亭"
+  }
+},
+{
+  "type": "way",
+  "id": 103495744,
+  "bounds": {
+    "minlat": 30.5124524,
+    "minlon": 114.4156431,
+    "maxlat": 30.5126519,
+    "maxlon": 114.4164153
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东九舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103495746,
+  "bounds": {
+    "minlat": 30.5179292,
+    "minlon": 114.4030841,
+    "maxlat": 30.5180354,
+    "maxlon": 114.4034681
+  },
+  "tags": {
+    "building": "greenhouse",
+    "name": "花房"
+  }
+},
+{
+  "type": "way",
+  "id": 103495754,
+  "bounds": {
+    "minlat": 30.5133614,
+    "minlon": 114.4007050,
+    "maxlat": 30.5136919,
+    "maxlon": 114.4017598
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "西一楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103495756,
+  "bounds": {
+    "minlat": 30.5132011,
+    "minlon": 114.4116260,
+    "maxlat": 30.5136249,
+    "maxlon": 114.4121474
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东六楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103495763,
+  "bounds": {
+    "minlat": 30.5179185,
+    "minlon": 114.4018161,
+    "maxlat": 30.5186521,
+    "maxlon": 114.4024918
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "百景园餐厅"
+  }
+},
+{
+  "type": "way",
+  "id": 103757019,
+  "bounds": {
+    "minlat": 30.5107184,
+    "minlon": 114.4263303,
+    "maxlat": 30.5111482,
+    "maxlon": 114.4269037
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "traditional_chinese_medicine",
+    "name": "东校区医院",
+    "operator": "华中科技大学",
+    "operator:type": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 103757331,
+  "bounds": {
+    "minlat": 30.5157995,
+    "minlon": 114.4313451,
+    "maxlat": 30.5162070,
+    "maxlon": 114.4315099
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "医学图像信息中心"
+  }
+},
+{
+  "type": "way",
+  "id": 103757333,
+  "bounds": {
+    "minlat": 30.5089817,
+    "minlon": 114.4261488,
+    "maxlat": 30.5094045,
+    "maxlon": 114.4268943
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "东教工食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 103757337,
+  "bounds": {
+    "minlat": 30.5160944,
+    "minlon": 114.4316603,
+    "maxlat": 30.5164440,
+    "maxlon": 114.4323018
+  },
+  "tags": {
+    "building": "yes",
+    "name": "成教楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103757340,
+  "bounds": {
+    "minlat": 30.5143759,
+    "minlon": 114.4310678,
+    "maxlat": 30.5146031,
+    "maxlon": 114.4315632
+  },
+  "tags": {
+    "building": "school",
+    "building:levels": "2",
+    "name": "智能互联网湖北省重点实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 103791871,
+  "bounds": {
+    "minlat": 30.5131009,
+    "minlon": 114.4126152,
+    "maxlat": 30.5135569,
+    "maxlon": 114.4132479
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东七楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103791873,
+  "bounds": {
+    "minlat": 30.5131532,
+    "minlon": 114.4121241,
+    "maxlat": 30.5133491,
+    "maxlon": 114.4126344
+  },
+  "tags": {
+    "building": "yes",
+    "name": "教育科学研究院",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103793033,
+  "bounds": {
+    "minlat": 30.5135070,
+    "minlon": 114.4120192,
+    "maxlat": 30.5137261,
+    "maxlon": 114.4129209
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东四楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103793034,
+  "bounds": {
+    "minlat": 30.5140424,
+    "minlon": 114.4118987,
+    "maxlat": 30.5144011,
+    "maxlon": 114.4132138
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东五楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103797819,
+  "bounds": {
+    "minlat": 30.5159147,
+    "minlon": 114.4138923,
+    "maxlat": 30.5163121,
+    "maxlon": 114.4147183
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东三十一楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103797826,
+  "bounds": {
+    "minlat": 30.5160021,
+    "minlon": 114.4151395,
+    "maxlat": 30.5161924,
+    "maxlon": 114.4155394
+  },
+  "tags": {
+    "building": "university",
+    "name": "东三十二楼",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103797832,
+  "bounds": {
+    "minlat": 30.5170305,
+    "minlon": 114.4193100,
+    "maxlat": 30.5172230,
+    "maxlon": 114.4199522
+  },
+  "tags": {
+    "building": "yes",
+    "name": "虹景办公楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103798076,
+  "bounds": {
+    "minlat": 30.5130268,
+    "minlon": 114.4144666,
+    "maxlat": 30.5134108,
+    "maxlon": 114.4149980
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "东三食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 103799779,
+  "bounds": {
+    "minlat": 30.5136608,
+    "minlon": 114.4142326,
+    "maxlat": 30.5138634,
+    "maxlon": 114.4144631
+  },
+  "tags": {
+    "building": "public",
+    "name": "东区学生澡堂"
+  }
+},
+{
+  "type": "way",
+  "id": 103801155,
+  "bounds": {
+    "minlat": 30.5147408,
+    "minlon": 114.4118636,
+    "maxlat": 30.5149251,
+    "maxlon": 114.4125343
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东五舍"
+  }
+},
+{
+  "type": "way",
+  "id": 103801156,
+  "bounds": {
+    "minlat": 30.5146037,
+    "minlon": 114.4128012,
+    "maxlat": 30.5147772,
+    "maxlon": 114.4133878
+  },
+  "tags": {
+    "building": "yes",
+    "name": "教三舍"
+  }
+},
+{
+  "type": "way",
+  "id": 103801507,
+  "bounds": {
+    "minlat": 30.5153379,
+    "minlon": 114.4109068,
+    "maxlat": 30.5159875,
+    "maxlon": 114.4116101
+  },
+  "tags": {
+    "building": "yes",
+    "name": "先进制造大楼西楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103801508,
+  "bounds": {
+    "minlat": 30.5158008,
+    "minlon": 114.4101924,
+    "maxlat": 30.5159571,
+    "maxlon": 114.4108150
+  },
+  "tags": {
+    "building": "yes",
+    "name": "教七舍"
+  }
+},
+{
+  "type": "way",
+  "id": 103801509,
+  "bounds": {
+    "minlat": 30.5157116,
+    "minlon": 114.4095504,
+    "maxlat": 30.5158756,
+    "maxlon": 114.4100815
+  },
+  "tags": {
+    "building": "yes",
+    "name": "教一舍"
+  }
+},
+{
+  "type": "way",
+  "id": 103801511,
+  "bounds": {
+    "minlat": 30.5154135,
+    "minlon": 114.4101397,
+    "maxlat": 30.5155928,
+    "maxlon": 114.4108100
+  },
+  "tags": {
+    "building": "yes",
+    "name": "教八舍"
+  }
+},
+{
+  "type": "way",
+  "id": 103801721,
+  "bounds": {
+    "minlat": 30.5166511,
+    "minlon": 114.4110350,
+    "maxlat": 30.5169412,
+    "maxlon": 114.4117316
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "集贤楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103802597,
+  "bounds": {
+    "minlat": 30.5164964,
+    "minlon": 114.4098395,
+    "maxlat": 30.5169590,
+    "maxlon": 114.4101818
+  },
+  "tags": {
+    "amenity": "conference_center",
+    "building": "yes",
+    "name": "明德报告厅"
+  }
+},
+{
+  "type": "way",
+  "id": 103802937,
+  "bounds": {
+    "minlat": 30.5146607,
+    "minlon": 114.4100878,
+    "maxlat": 30.5151680,
+    "maxlon": 114.4107120
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东八楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103802938,
+  "bounds": {
+    "minlat": 30.5143858,
+    "minlon": 114.4095722,
+    "maxlat": 30.5151199,
+    "maxlon": 114.4112990
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东一楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103803531,
+  "bounds": {
+    "minlat": 30.5135073,
+    "minlon": 114.4091293,
+    "maxlat": 30.5142693,
+    "maxlon": 114.4098164
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东二楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103804153,
+  "bounds": {
+    "minlat": 30.5109139,
+    "minlon": 114.4105725,
+    "maxlat": 30.5113924,
+    "maxlon": 114.4110897
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "6",
+    "name": "防伪工程研究中心/材料系/燃料电池研究中心",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103804904,
+  "bounds": {
+    "minlat": 30.5121128,
+    "minlon": 114.4098769,
+    "maxlat": 30.5124657,
+    "maxlon": 114.4112373
+  },
+  "tags": {
+    "building": "residential",
+    "name": "南一舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103804909,
+  "bounds": {
+    "minlat": 30.5116658,
+    "minlon": 114.4097926,
+    "maxlat": 30.5119950,
+    "maxlon": 114.4111889
+  },
+  "tags": {
+    "building": "residential",
+    "name": "南二舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103806199,
+  "bounds": {
+    "minlat": 30.5121317,
+    "minlon": 114.4076660,
+    "maxlat": 30.5124561,
+    "maxlon": 114.4085067
+  },
+  "tags": {
+    "building": "yes",
+    "name": "南六楼 计算中心",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103806948,
+  "bounds": {
+    "minlat": 30.5124211,
+    "minlon": 114.4055754,
+    "maxlat": 30.5126389,
+    "maxlon": 114.4064358
+  },
+  "tags": {
+    "building": "yes",
+    "name": "南三楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 103806950,
+  "bounds": {
+    "minlat": 30.5118603,
+    "minlon": 114.4054339,
+    "maxlat": 30.5120863,
+    "maxlon": 114.4063251
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "南二楼"
+  }
+},
+{
+  "type": "way",
+  "id": 103812462,
+  "bounds": {
+    "minlat": 30.5189019,
+    "minlon": 114.4090019,
+    "maxlat": 30.5191441,
+    "maxlon": 114.4095809
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "集锦园"
+  }
+},
+{
+  "type": "way",
+  "id": 103813873,
+  "bounds": {
+    "minlat": 30.5166218,
+    "minlon": 114.3991080,
+    "maxlat": 30.5171475,
+    "maxlon": 114.3997544
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "西三食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 103813877,
+  "bounds": {
+    "minlat": 30.5170239,
+    "minlon": 114.4013914,
+    "maxlat": 30.5173520,
+    "maxlon": 114.4016596
+  },
+  "tags": {
+    "building": "yes",
+    "name": "西学生超市",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 103814566,
+  "bounds": {
+    "minlat": 30.5165603,
+    "minlon": 114.4260473,
+    "maxlat": 30.5171205,
+    "maxlon": 114.4266896
+  },
+  "tags": {
+    "building": "食堂",
+    "building:levels": "2",
+    "name": "韵苑学生食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 103815856,
+  "bounds": {
+    "minlat": 30.5181477,
+    "minlon": 114.4267028,
+    "maxlat": 30.5183594,
+    "maxlon": 114.4272580
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑十二栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103815859,
+  "bounds": {
+    "minlat": 30.5163317,
+    "minlon": 114.4268780,
+    "maxlat": 30.5168883,
+    "maxlon": 114.4278552
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "5",
+    "name": "韵苑五栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103815863,
+  "bounds": {
+    "minlat": 30.5174880,
+    "minlon": 114.4263900,
+    "maxlat": 30.5176870,
+    "maxlon": 114.4268375
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑八栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103815864,
+  "bounds": {
+    "minlat": 30.5171472,
+    "minlon": 114.4262407,
+    "maxlat": 30.5173588,
+    "maxlon": 114.4267879
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑六栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 103932379,
+  "bounds": {
+    "minlat": 30.5172510,
+    "minlon": 114.4287503,
+    "maxlat": 30.5175220,
+    "maxlon": 114.4291427
+  },
+  "tags": {
+    "building": "commercial",
+    "building:levels": "2",
+    "name": "韵苑学生活动中心",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 104126942,
+  "bounds": {
+    "minlat": 30.5182995,
+    "minlon": 114.4175486,
+    "maxlat": 30.5184844,
+    "maxlon": 114.4183721
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园27/28/29单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126944,
+  "bounds": {
+    "minlat": 30.5174170,
+    "minlon": 114.4215682,
+    "maxlat": 30.5176225,
+    "maxlon": 114.4221838
+  },
+  "tags": {
+    "building": "yes",
+    "name": "博士后公寓2号"
+  }
+},
+{
+  "type": "way",
+  "id": 104126945,
+  "bounds": {
+    "minlat": 30.5176790,
+    "minlon": 114.4159672,
+    "maxlat": 30.5179587,
+    "maxlon": 114.4167525
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园1/2单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126946,
+  "bounds": {
+    "minlat": 30.5187593,
+    "minlon": 114.4169720,
+    "maxlat": 30.5190274,
+    "maxlon": 114.4179054
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园5/6单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126947,
+  "bounds": {
+    "minlat": 30.5171176,
+    "minlon": 114.4214606,
+    "maxlat": 30.5173237,
+    "maxlon": 114.4220600
+  },
+  "tags": {
+    "building": "yes",
+    "name": "博士后公寓1号"
+  }
+},
+{
+  "type": "way",
+  "id": 104126948,
+  "bounds": {
+    "minlat": 30.5179071,
+    "minlon": 114.4172777,
+    "maxlat": 30.5180962,
+    "maxlon": 114.4183238
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园17/18/19/20单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126949,
+  "bounds": {
+    "minlat": 30.5181909,
+    "minlon": 114.4164301,
+    "maxlat": 30.5184682,
+    "maxlon": 114.4173555
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园3/4单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126950,
+  "bounds": {
+    "minlat": 30.5175965,
+    "minlon": 114.4168846,
+    "maxlat": 30.5177537,
+    "maxlon": 114.4174177
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园8/9单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126953,
+  "bounds": {
+    "minlat": 30.5191383,
+    "minlon": 114.4179368,
+    "maxlat": 30.5193789,
+    "maxlon": 114.4184525
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园7单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126954,
+  "bounds": {
+    "minlat": 30.5175429,
+    "minlon": 114.4175168,
+    "maxlat": 30.5176916,
+    "maxlon": 114.4180840
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园10/11单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126955,
+  "bounds": {
+    "minlat": 30.5177028,
+    "minlon": 114.4217243,
+    "maxlat": 30.5178859,
+    "maxlon": 114.4223368
+  },
+  "tags": {
+    "building": "yes",
+    "name": "博士后公寓3号"
+  }
+},
+{
+  "type": "way",
+  "id": 104126970,
+  "bounds": {
+    "minlat": 30.5174935,
+    "minlon": 114.4182098,
+    "maxlat": 30.5176638,
+    "maxlon": 114.4187841
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园12/13单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104126971,
+  "bounds": {
+    "minlat": 30.5173690,
+    "minlon": 114.4192286,
+    "maxlat": 30.5175871,
+    "maxlon": 114.4200434
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园14/15/16单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104127393,
+  "bounds": {
+    "minlat": 30.5174664,
+    "minlon": 114.4212260,
+    "maxlat": 30.5179488,
+    "maxlon": 114.4215914
+  },
+  "tags": {
+    "amenity": "conference_centre",
+    "building": "public",
+    "name": "博士后公寓会议中心"
+  }
+},
+{
+  "type": "way",
+  "id": 104350701,
+  "bounds": {
+    "minlat": 30.5096025,
+    "minlon": 114.4245851,
+    "maxlat": 30.5099484,
+    "maxlon": 114.4252027
+  },
+  "tags": {
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "东区幼儿园"
+  }
+},
+{
+  "type": "way",
+  "id": 104463934,
+  "bounds": {
+    "minlat": 30.5170406,
+    "minlon": 114.4269786,
+    "maxlat": 30.5172852,
+    "maxlon": 114.4278233
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑七栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 104464198,
+  "bounds": {
+    "minlat": 30.5178767,
+    "minlon": 114.4184473,
+    "maxlat": 30.5182071,
+    "maxlon": 114.4189596
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园21/22单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464202,
+  "bounds": {
+    "minlat": 30.5083158,
+    "minlon": 114.4276484,
+    "maxlat": 30.5083867,
+    "maxlon": 114.4278564
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东区警务室"
+  }
+},
+{
+  "type": "way",
+  "id": 104464523,
+  "bounds": {
+    "minlat": 30.5178536,
+    "minlon": 114.4191191,
+    "maxlat": 30.5181032,
+    "maxlon": 114.4196489
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园23/24单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464758,
+  "bounds": {
+    "minlat": 30.5183296,
+    "minlon": 114.4185385,
+    "maxlat": 30.5184962,
+    "maxlon": 114.4190481
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园30/31单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464759,
+  "bounds": {
+    "minlat": 30.5182926,
+    "minlon": 114.4191688,
+    "maxlat": 30.5184507,
+    "maxlon": 114.4196677
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园32/33单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104464760,
+  "bounds": {
+    "minlat": 30.5179345,
+    "minlon": 114.4197965,
+    "maxlat": 30.5181010,
+    "maxlon": 114.4202793
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园25/26单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465094,
+  "bounds": {
+    "minlat": 30.5190644,
+    "minlon": 114.4186109,
+    "maxlat": 30.5192192,
+    "maxlon": 114.4191313
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园36/37单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465095,
+  "bounds": {
+    "minlat": 30.5182973,
+    "minlon": 114.4198528,
+    "maxlat": 30.5184636,
+    "maxlon": 114.4203490
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园34/35单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465096,
+  "bounds": {
+    "minlat": 30.5189952,
+    "minlon": 114.4192117,
+    "maxlat": 30.5191568,
+    "maxlon": 114.4197562
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园38/39单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465247,
+  "bounds": {
+    "minlat": 30.5186993,
+    "minlon": 114.4198832,
+    "maxlat": 30.5188657,
+    "maxlon": 114.4204080
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园40/41单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465577,
+  "bounds": {
+    "minlat": 30.5194295,
+    "minlon": 114.4185936,
+    "maxlat": 30.5196420,
+    "maxlon": 114.4191366
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园42/43单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465580,
+  "bounds": {
+    "minlat": 30.5193116,
+    "minlon": 114.4193074,
+    "maxlat": 30.5196385,
+    "maxlon": 114.4198394
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园44/45单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465636,
+  "bounds": {
+    "minlat": 30.5190811,
+    "minlon": 114.4199359,
+    "maxlat": 30.5192469,
+    "maxlon": 114.4204480
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园46/47单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465953,
+  "bounds": {
+    "minlat": 30.5202771,
+    "minlon": 114.4186305,
+    "maxlat": 30.5204137,
+    "maxlon": 114.4192252
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园54/55单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465954,
+  "bounds": {
+    "minlat": 30.5202334,
+    "minlon": 114.4194509,
+    "maxlat": 30.5203952,
+    "maxlon": 114.4200731
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园56/57单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465955,
+  "bounds": {
+    "minlat": 30.5198037,
+    "minlon": 114.4193459,
+    "maxlat": 30.5199838,
+    "maxlon": 114.4199326
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园50/51单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465956,
+  "bounds": {
+    "minlat": 30.5198938,
+    "minlon": 114.4186190,
+    "maxlat": 30.5200555,
+    "maxlon": 114.4191876
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园48/49单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104465957,
+  "bounds": {
+    "minlat": 30.5194456,
+    "minlon": 114.4199923,
+    "maxlat": 30.5196075,
+    "maxlon": 114.4205046
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园52/53单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466209,
+  "bounds": {
+    "minlat": 30.5202311,
+    "minlon": 114.4203697,
+    "maxlat": 30.5204737,
+    "maxlon": 114.4208479
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园71单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466210,
+  "bounds": {
+    "minlat": 30.5195958,
+    "minlon": 114.4207936,
+    "maxlat": 30.5197737,
+    "maxlon": 114.4214004
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园66/67单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466213,
+  "bounds": {
+    "minlat": 30.5192979,
+    "minlon": 114.4206597,
+    "maxlat": 30.5194757,
+    "maxlon": 114.4212498
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园64/65单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466214,
+  "bounds": {
+    "minlat": 30.5198984,
+    "minlon": 114.4207153,
+    "maxlat": 30.5200709,
+    "maxlon": 114.4214836
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园68/69/70单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466215,
+  "bounds": {
+    "minlat": 30.5198083,
+    "minlon": 114.4200513,
+    "maxlat": 30.5199815,
+    "maxlon": 114.4205824
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园58/59单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466216,
+  "bounds": {
+    "minlat": 30.5190274,
+    "minlon": 114.4206056,
+    "maxlat": 30.5191637,
+    "maxlon": 114.4211376
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园62/63单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466218,
+  "bounds": {
+    "minlat": 30.5187340,
+    "minlon": 114.4205421,
+    "maxlat": 30.5188934,
+    "maxlon": 114.4210142
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园60/61单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466220,
+  "bounds": {
+    "minlat": 30.5203074,
+    "minlon": 114.4208908,
+    "maxlat": 30.5206239,
+    "maxlon": 114.4215292
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园72单元"
+  }
+},
+{
+  "type": "way",
+  "id": 104466829,
+  "bounds": {
+    "minlat": 30.5203767,
+    "minlon": 114.4158410,
+    "maxlat": 30.5206101,
+    "maxlon": 114.4167253
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园1#"
+  }
+},
+{
+  "type": "way",
+  "id": 104466832,
+  "bounds": {
+    "minlat": 30.5204899,
+    "minlon": 114.4168717,
+    "maxlat": 30.5207025,
+    "maxlon": 114.4177124
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园2#"
+  }
+},
+{
+  "type": "way",
+  "id": 104466833,
+  "bounds": {
+    "minlat": 30.5205708,
+    "minlon": 114.4178452,
+    "maxlat": 30.5207048,
+    "maxlon": 114.4184124
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园3#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467134,
+  "bounds": {
+    "minlat": 30.5199746,
+    "minlon": 114.4158778,
+    "maxlat": 30.5201387,
+    "maxlon": 114.4166958
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园4#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467135,
+  "bounds": {
+    "minlat": 30.5200001,
+    "minlon": 114.4169014,
+    "maxlat": 30.5201387,
+    "maxlon": 114.4177070
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园5#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467137,
+  "bounds": {
+    "minlat": 30.5196974,
+    "minlon": 114.4158531,
+    "maxlat": 30.5198268,
+    "maxlon": 114.4167522
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园8#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467138,
+  "bounds": {
+    "minlat": 30.5200033,
+    "minlon": 114.4178441,
+    "maxlat": 30.5201490,
+    "maxlon": 114.4183450
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园6#"
+  }
+},
+{
+  "type": "way",
+  "id": 104467141,
+  "bounds": {
+    "minlat": 30.5194965,
+    "minlon": 114.4169480,
+    "maxlat": 30.5196628,
+    "maxlon": 114.4176051
+  },
+  "tags": {
+    "building": "yes",
+    "name": "喻园7#"
+  }
+},
+{
+  "type": "way",
+  "id": 104634491,
+  "bounds": {
+    "minlat": 30.5135626,
+    "minlon": 114.4025736,
+    "maxlat": 30.5138607,
+    "maxlon": 114.4032419
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "西十一楼"
+  }
+},
+{
+  "type": "way",
+  "id": 104634492,
+  "bounds": {
+    "minlat": 30.5138109,
+    "minlon": 114.4025660,
+    "maxlat": 30.5139865,
+    "maxlon": 114.4030649
+  },
+  "tags": {
+    "building": "yes",
+    "name": "压缩机实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 104634497,
+  "bounds": {
+    "minlat": 30.5124512,
+    "minlon": 114.4028328,
+    "maxlat": 30.5128158,
+    "maxlon": 114.4036889
+  },
+  "tags": {
+    "building": "yes",
+    "name": "西三楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 104634498,
+  "bounds": {
+    "minlat": 30.5136596,
+    "minlon": 114.4033894,
+    "maxlat": 30.5138930,
+    "maxlon": 114.4038159
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "西四楼"
+  }
+},
+{
+  "type": "way",
+  "id": 104635018,
+  "bounds": {
+    "minlat": 30.5133128,
+    "minlon": 114.4037609,
+    "maxlat": 30.5135059,
+    "maxlon": 114.4041939
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "水利机械楼"
+  }
+},
+{
+  "type": "way",
+  "id": 104635023,
+  "bounds": {
+    "minlat": 30.5141942,
+    "minlon": 114.4054490,
+    "maxlat": 30.5144156,
+    "maxlon": 114.4065889
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "name": "主校区图书馆老馆",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 104635261,
+  "bounds": {
+    "minlat": 30.5140963,
+    "minlon": 114.4081107,
+    "maxlat": 30.5142663,
+    "maxlon": 114.4086691
+  },
+  "tags": {
+    "building": "yes",
+    "name": "师生服务中心"
+  }
+},
+{
+  "type": "way",
+  "id": 104635265,
+  "bounds": {
+    "minlat": 30.5135879,
+    "minlon": 114.4072850,
+    "maxlat": 30.5141030,
+    "maxlon": 114.4086044
+  },
+  "tags": {
+    "building": "yes",
+    "name": "校史馆",
+    "operator": "华中科技大学",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 104778735,
+  "bounds": {
+    "minlat": 30.5147281,
+    "minlon": 114.4157320,
+    "maxlat": 30.5151057,
+    "maxlon": 114.4167109
+  },
+  "tags": {
+    "building": "yes",
+    "name": "材料学院",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 104778738,
+  "bounds": {
+    "minlat": 30.5144605,
+    "minlon": 114.4156441,
+    "maxlat": 30.5147130,
+    "maxlon": 114.4165980
+  },
+  "tags": {
+    "building": "yes",
+    "name": "动力机械与内燃机实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 105245999,
+  "bounds": {
+    "minlat": 30.5163956,
+    "minlon": 114.4036239,
+    "maxlat": 30.5166334,
+    "maxlon": 114.4047282
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西七舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105246000,
+  "bounds": {
+    "minlat": 30.5169486,
+    "minlon": 114.4006961,
+    "maxlat": 30.5171755,
+    "maxlon": 114.4014032
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西一舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105246001,
+  "bounds": {
+    "minlat": 30.5168393,
+    "minlon": 114.3999710,
+    "maxlat": 30.5170593,
+    "maxlon": 114.4006166
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西三舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105246710,
+  "bounds": {
+    "minlat": 30.5172644,
+    "minlon": 114.3990541,
+    "maxlat": 30.5174153,
+    "maxlon": 114.3994013
+  },
+  "tags": {
+    "building": "yes",
+    "name": "厨工宿舍"
+  }
+},
+{
+  "type": "way",
+  "id": 105246712,
+  "bounds": {
+    "minlat": 30.5173769,
+    "minlon": 114.4006018,
+    "maxlat": 30.5176150,
+    "maxlon": 114.4012959
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西二舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105246714,
+  "bounds": {
+    "minlat": 30.5161051,
+    "minlon": 114.4014895,
+    "maxlat": 30.5166819,
+    "maxlon": 114.4018614
+  },
+  "tags": {
+    "building": "university",
+    "name": "西区学生服务中心"
+  }
+},
+{
+  "type": "way",
+  "id": 105246720,
+  "bounds": {
+    "minlat": 30.5172393,
+    "minlon": 114.3996375,
+    "maxlat": 30.5175839,
+    "maxlon": 114.4005253
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西四舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105248531,
+  "bounds": {
+    "minlat": 30.5121040,
+    "minlon": 114.4039071,
+    "maxlat": 30.5123729,
+    "maxlon": 114.4047233
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "西六楼"
+  }
+},
+{
+  "type": "way",
+  "id": 105248630,
+  "bounds": {
+    "minlat": 30.5117962,
+    "minlon": 114.4040649,
+    "maxlat": 30.5120590,
+    "maxlon": 114.4046007
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "结构楼"
+  }
+},
+{
+  "type": "way",
+  "id": 105249136,
+  "bounds": {
+    "minlat": 30.5135504,
+    "minlon": 114.4001735,
+    "maxlat": 30.5136987,
+    "maxlon": 114.4006368
+  },
+  "tags": {
+    "building": "yes",
+    "name": "压缩机实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 105249137,
+  "bounds": {
+    "minlat": 30.5132553,
+    "minlon": 114.4001895,
+    "maxlat": 30.5135443,
+    "maxlon": 114.4007035
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "西七楼"
+  }
+},
+{
+  "type": "way",
+  "id": 105249142,
+  "bounds": {
+    "minlat": 30.5136804,
+    "minlon": 114.3991221,
+    "maxlat": 30.5138883,
+    "maxlon": 114.3996291
+  },
+  "tags": {
+    "building": "university",
+    "name": "西十楼"
+  }
+},
+{
+  "type": "way",
+  "id": 105249245,
+  "bounds": {
+    "minlat": 30.5131629,
+    "minlon": 114.3993655,
+    "maxlat": 30.5133489,
+    "maxlon": 114.3999034
+  },
+  "tags": {
+    "building": "yes",
+    "name": "热态实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 105249246,
+  "bounds": {
+    "minlat": 30.5166027,
+    "minlon": 114.4028137,
+    "maxlat": 30.5167568,
+    "maxlon": 114.4033743
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十七舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249247,
+  "bounds": {
+    "minlat": 30.5166655,
+    "minlon": 114.4020723,
+    "maxlat": 30.5168205,
+    "maxlon": 114.4027594
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十二舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249309,
+  "bounds": {
+    "minlat": 30.5160474,
+    "minlon": 114.4027470,
+    "maxlat": 30.5162639,
+    "maxlon": 114.4033264
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十五舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249310,
+  "bounds": {
+    "minlat": 30.5163560,
+    "minlon": 114.4021184,
+    "maxlat": 30.5165234,
+    "maxlon": 114.4027305
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十三舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249311,
+  "bounds": {
+    "minlat": 30.5162876,
+    "minlon": 114.4027761,
+    "maxlat": 30.5164644,
+    "maxlon": 114.4033444
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十六舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249312,
+  "bounds": {
+    "minlat": 30.5160627,
+    "minlon": 114.4021474,
+    "maxlat": 30.5162915,
+    "maxlon": 114.4027049
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十四舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249523,
+  "bounds": {
+    "minlat": 30.5169373,
+    "minlon": 114.4025135,
+    "maxlat": 30.5172364,
+    "maxlon": 114.4034200
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西八舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249524,
+  "bounds": {
+    "minlat": 30.5175040,
+    "minlon": 114.4018208,
+    "maxlat": 30.5177169,
+    "maxlon": 114.4024995
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十一舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249526,
+  "bounds": {
+    "minlat": 30.5172560,
+    "minlon": 114.4018899,
+    "maxlat": 30.5174882,
+    "maxlon": 114.4024151
+  },
+  "tags": {
+    "building": "yes",
+    "name": "西十一车棚"
+  }
+},
+{
+  "type": "way",
+  "id": 105249527,
+  "bounds": {
+    "minlat": 30.5170228,
+    "minlon": 114.4019103,
+    "maxlat": 30.5172313,
+    "maxlon": 114.4024440
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西十舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 105249713,
+  "bounds": {
+    "minlat": 30.5169403,
+    "minlon": 114.4066014,
+    "maxlat": 30.5171087,
+    "maxlon": 114.4071592
+  },
+  "tags": {
+    "building": "yes",
+    "name": "留学生宿舍"
+  }
+},
+{
+  "type": "way",
+  "id": 105249928,
+  "bounds": {
+    "minlat": 30.5171428,
+    "minlon": 114.4186168,
+    "maxlat": 30.5172390,
+    "maxlon": 114.4188018
+  },
+  "tags": {
+    "building": "public",
+    "name": "中国电信营业厅"
+  }
+},
+{
+  "type": "way",
+  "id": 105249930,
+  "bounds": {
+    "minlat": 30.5172438,
+    "minlon": 114.4174648,
+    "maxlat": 30.5173420,
+    "maxlon": 114.4176386
+  },
+  "tags": {
+    "building": "public",
+    "name": "中国联通营业厅"
+  }
+},
+{
+  "type": "way",
+  "id": 105250095,
+  "bounds": {
+    "minlat": 30.5172146,
+    "minlon": 114.4177062,
+    "maxlat": 30.5173190,
+    "maxlon": 114.4179337
+  },
+  "tags": {
+    "building": "public",
+    "name": "虹景接待部"
+  }
+},
+{
+  "type": "way",
+  "id": 110398517,
+  "bounds": {
+    "minlat": 30.5169309,
+    "minlon": 114.4281867,
+    "maxlat": 30.5171505,
+    "maxlon": 114.4288378
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑二十栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398519,
+  "bounds": {
+    "minlat": 30.5164612,
+    "minlon": 114.4303682,
+    "maxlat": 30.5166757,
+    "maxlon": 114.4309589
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑十八栋"
+  }
+},
+{
+  "type": "way",
+  "id": 110398521,
+  "bounds": {
+    "minlat": 30.5157437,
+    "minlon": 114.4320374,
+    "maxlat": 30.5160526,
+    "maxlon": 114.4322445
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "电工实训基地(新楼)"
+  }
+},
+{
+  "type": "way",
+  "id": 110398522,
+  "bounds": {
+    "minlat": 30.5165491,
+    "minlon": 114.4289670,
+    "maxlat": 30.5167974,
+    "maxlon": 114.4298765
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑十七栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398524,
+  "bounds": {
+    "minlat": 30.5164041,
+    "minlon": 114.4310301,
+    "maxlat": 30.5166132,
+    "maxlon": 114.4316264
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑十九栋"
+  }
+},
+{
+  "type": "way",
+  "id": 110398525,
+  "bounds": {
+    "minlat": 30.5161577,
+    "minlon": 114.4288983,
+    "maxlat": 30.5164088,
+    "maxlon": 114.4298006
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑十四栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398526,
+  "bounds": {
+    "minlat": 30.5160421,
+    "minlon": 114.4303158,
+    "maxlat": 30.5162872,
+    "maxlon": 114.4312141
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑十五栋"
+  }
+},
+{
+  "type": "way",
+  "id": 110398529,
+  "bounds": {
+    "minlat": 30.5185276,
+    "minlon": 114.4268262,
+    "maxlat": 30.5187290,
+    "maxlon": 114.4272995
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑二十七栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398530,
+  "bounds": {
+    "minlat": 30.5165970,
+    "minlon": 114.4279854,
+    "maxlat": 30.5168315,
+    "maxlon": 114.4287860
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑十六栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398533,
+  "bounds": {
+    "minlat": 30.5184355,
+    "minlon": 114.4273950,
+    "maxlat": 30.5186699,
+    "maxlon": 114.4281524
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑二十六栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398534,
+  "bounds": {
+    "minlat": 30.5182857,
+    "minlon": 114.4282674,
+    "maxlat": 30.5184715,
+    "maxlon": 114.4289183
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑二十五栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398536,
+  "bounds": {
+    "minlat": 30.5176180,
+    "minlon": 114.4285804,
+    "maxlat": 30.5177792,
+    "maxlon": 114.4290908
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑二十二栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398538,
+  "bounds": {
+    "minlat": 30.5162604,
+    "minlon": 114.4278777,
+    "maxlat": 30.5165036,
+    "maxlon": 114.4287437
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑十三栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398539,
+  "bounds": {
+    "minlat": 30.5180803,
+    "minlon": 114.4274258,
+    "maxlat": 30.5183152,
+    "maxlon": 114.4281454
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑二十四栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110398543,
+  "bounds": {
+    "minlat": 30.5179012,
+    "minlon": 114.4283288,
+    "maxlat": 30.5181389,
+    "maxlon": 114.4291505
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑二十三栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110400074,
+  "bounds": {
+    "minlat": 30.5117835,
+    "minlon": 114.4019600,
+    "maxlat": 30.5119656,
+    "maxlon": 114.4025238
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "大电机实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 110400076,
+  "bounds": {
+    "minlat": 30.5119786,
+    "minlon": 114.4022326,
+    "maxlat": 30.5120704,
+    "maxlon": 114.4024669
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "电机楼"
+  }
+},
+{
+  "type": "way",
+  "id": 110400089,
+  "bounds": {
+    "minlat": 30.5121582,
+    "minlon": 114.4011793,
+    "maxlat": 30.5124188,
+    "maxlon": 114.4019211
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "西九楼"
+  }
+},
+{
+  "type": "way",
+  "id": 110400345,
+  "bounds": {
+    "minlat": 30.5120308,
+    "minlon": 114.4007436,
+    "maxlat": 30.5122080,
+    "maxlon": 114.4010714
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "水果保鲜"
+  }
+},
+{
+  "type": "way",
+  "id": 110400461,
+  "bounds": {
+    "minlat": 30.5125965,
+    "minlon": 114.4003188,
+    "maxlat": 30.5130595,
+    "maxlon": 114.4010420
+  },
+  "tags": {
+    "building": "university",
+    "name": "电气楼"
+  }
+},
+{
+  "type": "way",
+  "id": 110400797,
+  "bounds": {
+    "minlat": 30.5124733,
+    "minlon": 114.3996038,
+    "maxlat": 30.5128794,
+    "maxlon": 114.4000817
+  },
+  "tags": {
+    "building": "university",
+    "name": "清洁能源学科大楼"
+  }
+},
+{
+  "type": "way",
+  "id": 110401139,
+  "bounds": {
+    "minlat": 30.5142821,
+    "minlon": 114.3988802,
+    "maxlat": 30.5146474,
+    "maxlon": 114.3991528
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "百惠园食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 110401141,
+  "bounds": {
+    "minlat": 30.5132684,
+    "minlon": 114.3991144,
+    "maxlat": 30.5133858,
+    "maxlon": 114.3992970
+  },
+  "tags": {
+    "building": "yes",
+    "name": "西十教学楼附楼"
+  }
+},
+{
+  "type": "way",
+  "id": 110401143,
+  "bounds": {
+    "minlat": 30.5133869,
+    "minlon": 114.3990754,
+    "maxlat": 30.5135061,
+    "maxlon": 114.3992723
+  },
+  "tags": {
+    "building": "yes",
+    "name": "西十教学楼附楼"
+  }
+},
+{
+  "type": "way",
+  "id": 110401144,
+  "bounds": {
+    "minlat": 30.5135339,
+    "minlon": 114.3990542,
+    "maxlat": 30.5136494,
+    "maxlon": 114.3992259
+  },
+  "tags": {
+    "building": "yes",
+    "name": "西十教学楼附楼"
+  }
+},
+{
+  "type": "way",
+  "id": 110401145,
+  "bounds": {
+    "minlat": 30.5135673,
+    "minlon": 114.3987787,
+    "maxlat": 30.5139301,
+    "maxlon": 114.3989906
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "紫菘公寓16栋"
+  }
+},
+{
+  "type": "way",
+  "id": 110401896,
+  "bounds": {
+    "minlat": 30.5134914,
+    "minlon": 114.3972807,
+    "maxlat": 30.5137319,
+    "maxlon": 114.3980769
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓4栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401899,
+  "bounds": {
+    "minlat": 30.5134362,
+    "minlon": 114.3963734,
+    "maxlat": 30.5136601,
+    "maxlon": 114.3971542
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓8栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401900,
+  "bounds": {
+    "minlat": 30.5140591,
+    "minlon": 114.3962911,
+    "maxlat": 30.5143046,
+    "maxlon": 114.3971567
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓9栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401901,
+  "bounds": {
+    "minlat": 30.5131260,
+    "minlon": 114.3973330,
+    "maxlat": 30.5133918,
+    "maxlon": 114.3981319
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓3栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401902,
+  "bounds": {
+    "minlat": 30.5142050,
+    "minlon": 114.3982371,
+    "maxlat": 30.5144635,
+    "maxlon": 114.3988032
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓2栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401905,
+  "bounds": {
+    "minlat": 30.5142829,
+    "minlon": 114.3973083,
+    "maxlat": 30.5145757,
+    "maxlon": 114.3981911
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓6栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401906,
+  "bounds": {
+    "minlat": 30.5136759,
+    "minlon": 114.3955226,
+    "maxlat": 30.5142051,
+    "maxlon": 114.3961958
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "紫菘公寓13栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401907,
+  "bounds": {
+    "minlat": 30.5144153,
+    "minlon": 114.3963135,
+    "maxlat": 30.5146476,
+    "maxlon": 114.3972023
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓10栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401908,
+  "bounds": {
+    "minlat": 30.5133848,
+    "minlon": 114.3957132,
+    "maxlat": 30.5135908,
+    "maxlon": 114.3962785
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓12栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401914,
+  "bounds": {
+    "minlat": 30.5130469,
+    "minlon": 114.3963882,
+    "maxlat": 30.5132857,
+    "maxlon": 114.3971812
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓7栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401916,
+  "bounds": {
+    "minlat": 30.5132227,
+    "minlon": 114.3981820,
+    "maxlat": 30.5134797,
+    "maxlon": 114.3990074
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓1栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401917,
+  "bounds": {
+    "minlat": 30.5139456,
+    "minlon": 114.3972672,
+    "maxlat": 30.5142247,
+    "maxlon": 114.3980783
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓5栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110401921,
+  "bounds": {
+    "minlat": 30.5129867,
+    "minlon": 114.3957703,
+    "maxlat": 30.5131917,
+    "maxlon": 114.3963259
+  },
+  "tags": {
+    "building": "residential",
+    "name": "紫菘公寓11栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110402947,
+  "bounds": {
+    "minlat": 30.5140666,
+    "minlon": 114.3991503,
+    "maxlat": 30.5142752,
+    "maxlon": 114.3996586
+  },
+  "tags": {
+    "building": "yes",
+    "name": "低温实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 110403136,
+  "bounds": {
+    "minlat": 30.5128147,
+    "minlon": 114.3948302,
+    "maxlat": 30.5130437,
+    "maxlon": 114.3956909
+  },
+  "tags": {
+    "building": "yes",
+    "name": "B栋"
+  }
+},
+{
+  "type": "way",
+  "id": 110403137,
+  "bounds": {
+    "minlat": 30.5143818,
+    "minlon": 114.3992193,
+    "maxlat": 30.5146148,
+    "maxlon": 114.3996290
+  },
+  "tags": {
+    "building": "yes",
+    "name": "制冷低温实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 110403138,
+  "bounds": {
+    "minlat": 30.5132923,
+    "minlon": 114.3948064,
+    "maxlat": 30.5136043,
+    "maxlon": 114.3956084
+  },
+  "tags": {
+    "building": "yes",
+    "name": "A栋"
+  }
+},
+{
+  "type": "way",
+  "id": 110403418,
+  "bounds": {
+    "minlat": 30.5139055,
+    "minlon": 114.4009788,
+    "maxlat": 30.5140690,
+    "maxlon": 114.4013293
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "体育部仓库"
+  }
+},
+{
+  "type": "way",
+  "id": 110403420,
+  "bounds": {
+    "minlat": 30.5137605,
+    "minlon": 114.4001233,
+    "maxlat": 30.5139210,
+    "maxlon": 114.4005761
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "环境学院用房"
+  }
+},
+{
+  "type": "way",
+  "id": 110403788,
+  "bounds": {
+    "minlat": 30.5202798,
+    "minlon": 114.4020790,
+    "maxlat": 30.5205616,
+    "maxlon": 114.4026493
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "高层小区3栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 110404332,
+  "bounds": {
+    "minlat": 30.5169971,
+    "minlon": 114.4061358,
+    "maxlat": 30.5171406,
+    "maxlon": 114.4065406
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "友谊餐厅"
+  }
+},
+{
+  "type": "way",
+  "id": 110404333,
+  "bounds": {
+    "minlat": 30.5166575,
+    "minlon": 114.4070588,
+    "maxlat": 30.5168008,
+    "maxlon": 114.4071284
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "出国留学培训服务中心(友谊公寓附楼)"
+  }
+},
+{
+  "type": "way",
+  "id": 112155723,
+  "bounds": {
+    "minlat": 30.5075098,
+    "minlon": 114.4243024,
+    "maxlat": 30.5079778,
+    "maxlon": 114.4248684
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "yes",
+    "name": "武汉高科"
+  }
+},
+{
+  "type": "way",
+  "id": 112325754,
+  "bounds": {
+    "minlat": 30.5020544,
+    "minlon": 114.4223858,
+    "maxlat": 30.5032175,
+    "maxlon": 114.4249089
+  },
+  "tags": {
+    "addr:city": "Wuhan",
+    "addr:postcode": "430074",
+    "addr:street": "光谷创业街",
+    "building": "yes",
+    "building:levels": "6",
+    "name": "烽火科技",
+    "name:en": "Fiber Home Tech Co., Ltd..",
+    "name:zh": "烽火科技"
+  }
+},
+{
+  "type": "way",
+  "id": 112934349,
+  "bounds": {
+    "minlat": 30.5094267,
+    "minlon": 114.3914409,
+    "maxlat": 30.5102163,
+    "maxlon": 114.3933518
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "30",
+    "height": "15",
+    "name": "光谷国际广场",
+    "name:en": "Optics Valley International Plaza"
+  }
+},
+{
+  "type": "way",
+  "id": 112937193,
+  "bounds": {
+    "minlat": 30.5091708,
+    "minlon": 114.3896554,
+    "maxlat": 30.5097404,
+    "maxlon": 114.3904735
+  },
+  "tags": {
+    "building": "commercial",
+    "name": "武漢信息港"
+  }
+},
+{
+  "type": "way",
+  "id": 112937194,
+  "bounds": {
+    "minlat": 30.5079651,
+    "minlon": 114.3895119,
+    "maxlat": 30.5092250,
+    "maxlon": 114.3917157
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "7",
+    "name": "鲁巷广场购物中心",
+    "name:en": "Luxiang Square Shopping Center",
+    "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 112937195,
+  "bounds": {
+    "minlat": 30.5083167,
+    "minlon": 114.3914554,
+    "maxlat": 30.5088010,
+    "maxlon": 114.3918733
+  },
+  "tags": {
+    "addr:district": "Hankou",
+    "addr:housenumber": "726",
+    "building": "hotel",
+    "building:levels": "30",
+    "name": "华美达大酒店",
+    "name:en": "Ramada Plaza Tian Lu Hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 200387857,
+  "bounds": {
+    "minlat": 30.5170794,
+    "minlon": 114.4111742,
+    "maxlat": 30.5176611,
+    "maxlon": 114.4118712
+  },
+  "tags": {
+    "building": "yes",
+    "name": "公共管理学院",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 202148330,
+  "bounds": {
+    "minlat": 30.5077645,
+    "minlon": 114.3901900,
+    "maxlat": 30.5088043,
+    "maxlon": 114.3958256
+  },
+  "tags": {
+    "building": "train_station",
+    "layer": "-1",
+    "level": "-1",
+    "name": "光谷广场地铁站"
+  }
+},
+{
+  "type": "way",
+  "id": 220487585,
+  "bounds": {
+    "minlat": 30.5069100,
+    "minlon": 114.4217282,
+    "maxlat": 30.5072590,
+    "maxlon": 114.4224122
+  },
+  "tags": {
+    "building": "yes",
+    "name": "巴黎豪庭管理处",
+    "phone": "+86 153 0713 6173"
+  }
+},
+{
+  "type": "way",
+  "id": 220560701,
+  "bounds": {
+    "minlat": 30.5258136,
+    "minlon": 114.3922192,
+    "maxlat": 30.5262750,
+    "maxlon": 114.3932626
+  },
+  "tags": {
+    "addr:city": "武汉",
+    "addr:housename": "中国地质大学（武汉）工程试验楼",
+    "addr:housenumber": "388",
+    "addr:postcode": "430074",
+    "addr:street": "鲁磨路",
+    "building": "university",
+    "building:levels": "1",
+    "name": "工程实验大楼"
+  }
+},
+{
+  "type": "way",
+  "id": 221156586,
+  "bounds": {
+    "minlat": 30.5110820,
+    "minlon": 114.4250779,
+    "maxlat": 30.5113685,
+    "maxlon": 114.4254177
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "12",
+    "name": "亮胜楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 233646552,
+  "bounds": {
+    "minlat": 30.5089550,
+    "minlon": 114.4101882,
+    "maxlat": 30.5092406,
+    "maxlon": 114.4106158
+  },
+  "tags": {
+    "building": "public",
+    "name": "洪山区人民检察院"
+  }
+},
+{
+  "type": "way",
+  "id": 247175840,
+  "bounds": {
+    "minlat": 30.5066013,
+    "minlon": 114.4265145,
+    "maxlat": 30.5067399,
+    "maxlon": 114.4270508
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "关东公寓B"
+  }
+},
+{
+  "type": "way",
+  "id": 247175841,
+  "bounds": {
+    "minlat": 30.5063673,
+    "minlon": 114.4265848,
+    "maxlat": 30.5065116,
+    "maxlon": 114.4270111
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "关东公寓A"
+  }
+},
+{
+  "type": "way",
+  "id": 280759548,
+  "bounds": {
+    "minlat": 30.5221745,
+    "minlon": 114.3911368,
+    "maxlat": 30.5223879,
+    "maxlon": 114.3918942
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "学生公寓西区52栋"
+  }
+},
+{
+  "type": "way",
+  "id": 282650817,
+  "bounds": {
+    "minlat": 30.5255590,
+    "minlon": 114.3910339,
+    "maxlat": 30.5257315,
+    "maxlon": 114.3920830
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "学生公寓西区56栋"
+  }
+},
+{
+  "type": "way",
+  "id": 282650873,
+  "bounds": {
+    "minlat": 30.5255651,
+    "minlon": 114.3921883,
+    "maxlat": 30.5257500,
+    "maxlon": 114.3933210
+  },
+  "tags": {
+    "building": "university",
+    "name": "教二楼"
+  }
+},
+{
+  "type": "way",
+  "id": 282652445,
+  "bounds": {
+    "minlat": 30.5248935,
+    "minlon": 114.3903393,
+    "maxlat": 30.5250787,
+    "maxlon": 114.3907551
+  },
+  "tags": {
+    "alt_name": "国防生苑",
+    "building": "dormitory",
+    "name": "学生公寓西区55栋"
+  }
+},
+{
+  "type": "way",
+  "id": 282652446,
+  "bounds": {
+    "minlat": 30.5242330,
+    "minlon": 114.3921786,
+    "maxlat": 30.5246359,
+    "maxlon": 114.3933342
+  },
+  "tags": {
+    "building": "yes",
+    "name": "体育馆及体育学院"
+  }
+},
+{
+  "type": "way",
+  "id": 282652893,
+  "bounds": {
+    "minlat": 30.5233489,
+    "minlon": 114.3915662,
+    "maxlat": 30.5238079,
+    "maxlon": 114.3919518
+  },
+  "tags": {
+    "building": "yes",
+    "name": "大学生活动中心"
+  }
+},
+{
+  "type": "way",
+  "id": 282652895,
+  "bounds": {
+    "minlat": 30.5230130,
+    "minlon": 114.3937723,
+    "maxlat": 30.5237833,
+    "maxlon": 114.3958419
+  },
+  "tags": {
+    "building": "university",
+    "layer": "1",
+    "name": "主楼"
+  }
+},
+{
+  "type": "way",
+  "id": 282652896,
+  "bounds": {
+    "minlat": 30.5224521,
+    "minlon": 114.3935589,
+    "maxlat": 30.5227379,
+    "maxlon": 114.3943106
+  },
+  "tags": {
+    "building": "university",
+    "name": "基委楼",
+    "note": "数学与物理学院、地球物理与空间信息学院"
+  }
+},
+{
+  "type": "way",
+  "id": 282652897,
+  "bounds": {
+    "minlat": 30.5224661,
+    "minlon": 114.3948228,
+    "maxlat": 30.5227399,
+    "maxlon": 114.3956911
+  },
+  "tags": {
+    "building": "university",
+    "name": "教一楼"
+  }
+},
+{
+  "type": "way",
+  "id": 282652898,
+  "bounds": {
+    "minlat": 30.5215228,
+    "minlon": 114.3935249,
+    "maxlat": 30.5218124,
+    "maxlon": 114.3943254
+  },
+  "tags": {
+    "building": "university",
+    "building:levels": "5",
+    "name": "物探楼",
+    "note": "地球物理与空间信息学院"
+  }
+},
+{
+  "type": "way",
+  "id": 282652899,
+  "bounds": {
+    "minlat": 30.5215204,
+    "minlon": 114.3947858,
+    "maxlat": 30.5219566,
+    "maxlon": 114.3955670
+  },
+  "tags": {
+    "building": "university",
+    "name": "工程楼",
+    "note": "工程学院"
+  }
+},
+{
+  "type": "way",
+  "id": 282652900,
+  "bounds": {
+    "minlat": 30.5206092,
+    "minlon": 114.3934559,
+    "maxlat": 30.5212492,
+    "maxlon": 114.3941426
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "library": "university",
+    "name": "中国地质大学图书馆",
+    "operator": "中国地质大学"
+  }
+},
+{
+  "type": "way",
+  "id": 282654783,
+  "bounds": {
+    "minlat": 30.5220492,
+    "minlon": 114.3977844,
+    "maxlat": 30.5222372,
+    "maxlon": 114.3984873
+  },
+  "tags": {
+    "building": "residential",
+    "name": "研究生公寓2号楼"
+  }
+},
+{
+  "type": "way",
+  "id": 282654784,
+  "bounds": {
+    "minlat": 30.5217161,
+    "minlon": 114.3977830,
+    "maxlat": 30.5219015,
+    "maxlon": 114.3984827
+  },
+  "tags": {
+    "addr:city": "武汉",
+    "building": "school",
+    "name": "新1栋"
+  }
+},
+{
+  "type": "way",
+  "id": 282654785,
+  "bounds": {
+    "minlat": 30.5224465,
+    "minlon": 114.3979225,
+    "maxlat": 30.5227504,
+    "maxlon": 114.3984588
+  },
+  "tags": {
+    "building": "university",
+    "name": "中国地质大学研究生院"
+  }
+},
+{
+  "type": "way",
+  "id": 282654786,
+  "bounds": {
+    "minlat": 30.5224381,
+    "minlon": 114.3986089,
+    "maxlat": 30.5227600,
+    "maxlon": 114.3990202
+  },
+  "tags": {
+    "building": "yes",
+    "name": "研究生公寓4号楼"
+  }
+},
+{
+  "type": "way",
+  "id": 282654788,
+  "bounds": {
+    "minlat": 30.5204556,
+    "minlon": 114.3959669,
+    "maxlat": 30.5205885,
+    "maxlon": 114.3966183
+  },
+  "tags": {
+    "building": "yes",
+    "name": "研究生院"
+  }
+},
+{
+  "type": "way",
+  "id": 283729607,
+  "bounds": {
+    "minlat": 30.5242811,
+    "minlon": 114.3904200,
+    "maxlat": 30.5245945,
+    "maxlon": 114.3909440
+  },
+  "tags": {
+    "addr:city": "武汉",
+    "addr:housenumber": "388",
+    "addr:postcode": "430074",
+    "addr:street": "鲁磨路",
+    "amenity": "food_court",
+    "building": "yes",
+    "building:levels": "1",
+    "fast_food": "cafeteria",
+    "name": "学一食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 283734562,
+  "bounds": {
+    "minlat": 30.5297124,
+    "minlon": 114.3950299,
+    "maxlat": 30.5302752,
+    "maxlon": 114.3959820
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "北区体育馆"
+  }
+},
+{
+  "type": "way",
+  "id": 283734563,
+  "bounds": {
+    "minlat": 30.5299205,
+    "minlon": 114.3942206,
+    "maxlat": 30.5304891,
+    "maxlon": 114.3947568
+  },
+  "tags": {
+    "building": "university",
+    "name": "北一楼"
+  }
+},
+{
+  "type": "way",
+  "id": 283734564,
+  "bounds": {
+    "minlat": 30.5309561,
+    "minlon": 114.3949660,
+    "maxlat": 30.5314577,
+    "maxlon": 114.3958428
+  },
+  "tags": {
+    "building": "university",
+    "library": "university",
+    "name": "北区自习室",
+    "operator": "中国地质大学"
+  }
+},
+{
+  "type": "way",
+  "id": 283734565,
+  "bounds": {
+    "minlat": 30.5309477,
+    "minlon": 114.3948649,
+    "maxlat": 30.5313974,
+    "maxlon": 114.3950090
+  },
+  "tags": {
+    "building": "university",
+    "name": "经济管理学院"
+  }
+},
+{
+  "type": "way",
+  "id": 283734567,
+  "bounds": {
+    "minlat": 30.5316752,
+    "minlon": 114.3933436,
+    "maxlat": 30.5323907,
+    "maxlon": 114.3956061
+  },
+  "tags": {
+    "building": "university",
+    "name": "北区综合楼"
+  }
+},
+{
+  "type": "way",
+  "id": 283735716,
+  "bounds": {
+    "minlat": 30.5318083,
+    "minlon": 114.3963728,
+    "maxlat": 30.5322042,
+    "maxlon": 114.3967043
+  },
+  "tags": {
+    "building": "university",
+    "name": "中国地质大学音乐厅"
+  }
+},
+{
+  "type": "way",
+  "id": 283735718,
+  "bounds": {
+    "minlat": 30.5292472,
+    "minlon": 114.3929237,
+    "maxlat": 30.5299588,
+    "maxlon": 114.3937820
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "building:levels": "2",
+    "fast_food": "cafeteria",
+    "name": "北区学生一食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 283735719,
+  "bounds": {
+    "minlat": 30.5301196,
+    "minlon": 114.3937345,
+    "maxlat": 30.5302988,
+    "maxlon": 114.3940858
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区22栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283735720,
+  "bounds": {
+    "minlat": 30.5304963,
+    "minlon": 114.3927848,
+    "maxlat": 30.5306925,
+    "maxlon": 114.3934013
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区20栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283735721,
+  "bounds": {
+    "minlat": 30.5303968,
+    "minlon": 114.3935037,
+    "maxlat": 30.5306914,
+    "maxlon": 114.3940549
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区21栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736906,
+  "bounds": {
+    "minlat": 30.5321203,
+    "minlon": 114.3926499,
+    "maxlat": 30.5323169,
+    "maxlon": 114.3932693
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区25栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736907,
+  "bounds": {
+    "minlat": 30.5318169,
+    "minlon": 114.3926393,
+    "maxlat": 30.5319953,
+    "maxlon": 114.3932604
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区24栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736908,
+  "bounds": {
+    "minlat": 30.5307760,
+    "minlon": 114.3928213,
+    "maxlat": 30.5309596,
+    "maxlon": 114.3934010
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区18栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736909,
+  "bounds": {
+    "minlat": 30.5307358,
+    "minlon": 114.3934733,
+    "maxlat": 30.5309858,
+    "maxlon": 114.3940413
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区19栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736911,
+  "bounds": {
+    "minlat": 30.5307448,
+    "minlon": 114.3923476,
+    "maxlat": 30.5309303,
+    "maxlon": 114.3927075
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区23栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736912,
+  "bounds": {
+    "minlat": 30.5310508,
+    "minlon": 114.3924761,
+    "maxlat": 30.5313328,
+    "maxlon": 114.3928088
+  },
+  "tags": {
+    "building": "yes",
+    "name": "北区生活服务中心",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 283736913,
+  "bounds": {
+    "minlat": 30.5305233,
+    "minlon": 114.3942355,
+    "maxlat": 30.5308237,
+    "maxlon": 114.3947612
+  },
+  "tags": {
+    "building": "university",
+    "name": "中国地质大学公共管理学院"
+  }
+},
+{
+  "type": "way",
+  "id": 283736914,
+  "bounds": {
+    "minlat": 30.5326080,
+    "minlon": 114.3906124,
+    "maxlat": 30.5327548,
+    "maxlon": 114.3909744
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区1栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736915,
+  "bounds": {
+    "minlat": 30.5324175,
+    "minlon": 114.3906588,
+    "maxlat": 30.5325173,
+    "maxlon": 114.3907869
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区2栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736916,
+  "bounds": {
+    "minlat": 30.5323404,
+    "minlon": 114.3908723,
+    "maxlat": 30.5324577,
+    "maxlon": 114.3912341
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区3栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736917,
+  "bounds": {
+    "minlat": 30.5322056,
+    "minlon": 114.3907076,
+    "maxlat": 30.5323352,
+    "maxlon": 114.3908784
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区4栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736918,
+  "bounds": {
+    "minlat": 30.5321892,
+    "minlon": 114.3913136,
+    "maxlat": 30.5323100,
+    "maxlon": 114.3917495
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区5栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736919,
+  "bounds": {
+    "minlat": 30.5319497,
+    "minlon": 114.3913222,
+    "maxlat": 30.5320740,
+    "maxlon": 114.3917647
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区6栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736920,
+  "bounds": {
+    "minlat": 30.5321455,
+    "minlon": 114.3919406,
+    "maxlat": 30.5322795,
+    "maxlon": 114.3924520
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区7栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283736921,
+  "bounds": {
+    "minlat": 30.5319292,
+    "minlon": 114.3919267,
+    "maxlat": 30.5320619,
+    "maxlon": 114.3924474
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区8栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738101,
+  "bounds": {
+    "minlat": 30.5321029,
+    "minlon": 114.3909129,
+    "maxlat": 30.5322050,
+    "maxlon": 114.3912473
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区4栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738102,
+  "bounds": {
+    "minlat": 30.5315938,
+    "minlon": 114.3912760,
+    "maxlat": 30.5316907,
+    "maxlon": 114.3914008
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区10栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738103,
+  "bounds": {
+    "minlat": 30.5314436,
+    "minlon": 114.3912733,
+    "maxlat": 30.5315129,
+    "maxlon": 114.3914034
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区11栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738104,
+  "bounds": {
+    "minlat": 30.5312565,
+    "minlon": 114.3912786,
+    "maxlat": 30.5313339,
+    "maxlon": 114.3914181
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区12栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738105,
+  "bounds": {
+    "minlat": 30.5315536,
+    "minlon": 114.3910155,
+    "maxlat": 30.5317103,
+    "maxlon": 114.3912055
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区9栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738106,
+  "bounds": {
+    "minlat": 30.5312248,
+    "minlon": 114.3914990,
+    "maxlat": 30.5313596,
+    "maxlon": 114.3920194
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区13栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738107,
+  "bounds": {
+    "minlat": 30.5312020,
+    "minlon": 114.3920885,
+    "maxlat": 30.5313071,
+    "maxlon": 114.3923629
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区14栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738108,
+  "bounds": {
+    "minlat": 30.5313631,
+    "minlon": 114.3922410,
+    "maxlat": 30.5314734,
+    "maxlon": 114.3923772
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区15栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738109,
+  "bounds": {
+    "minlat": 30.5315364,
+    "minlon": 114.3922532,
+    "maxlat": 30.5316380,
+    "maxlon": 114.3923894
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区16栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738110,
+  "bounds": {
+    "minlat": 30.5313491,
+    "minlon": 114.3925987,
+    "maxlat": 30.5315504,
+    "maxlon": 114.3932370
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "北区17栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283738111,
+  "bounds": {
+    "minlat": 30.5308949,
+    "minlon": 114.3944825,
+    "maxlat": 30.5313144,
+    "maxlon": 114.3947927
+  },
+  "tags": {
+    "building": "university",
+    "name": "中国地质大学MBA教育中心"
+  }
+},
+{
+  "type": "way",
+  "id": 283739277,
+  "bounds": {
+    "minlat": 30.5313752,
+    "minlon": 114.3935148,
+    "maxlat": 30.5315851,
+    "maxlon": 114.3939530
+  },
+  "tags": {
+    "amenity": "post_office",
+    "brand": "菜鸟驿站",
+    "brand:en": "CAI NIAO",
+    "brand:wikidata": "Q16947973",
+    "brand:zh": "菜鸟驿站",
+    "building": "yes",
+    "name": "菜鸟驿站",
+    "name:en": "CAI NIAO",
+    "name:zh": "菜鸟驿站"
+  }
+},
+{
+  "type": "way",
+  "id": 283739278,
+  "bounds": {
+    "minlat": 30.5314589,
+    "minlon": 114.3933992,
+    "maxlat": 30.5315594,
+    "maxlon": 114.3934877
+  },
+  "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "building": "yes",
+    "name": "中国银行ATM"
+  }
+},
+{
+  "type": "way",
+  "id": 283739796,
+  "bounds": {
+    "minlat": 30.5194672,
+    "minlon": 114.3946604,
+    "maxlat": 30.5202838,
+    "maxlon": 114.3951180
+  },
+  "tags": {
+    "building": "yes",
+    "name": "中国地质大学逸夫博物馆",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 283764866,
+  "bounds": {
+    "minlat": 30.5229829,
+    "minlon": 114.3980283,
+    "maxlat": 30.5232641,
+    "maxlon": 114.3985188
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "教职工活动中心"
+  }
+},
+{
+  "type": "way",
+  "id": 283764868,
+  "bounds": {
+    "minlat": 30.5233875,
+    "minlon": 114.3986659,
+    "maxlat": 30.5235653,
+    "maxlon": 114.3990198
+  },
+  "tags": {
+    "building": "dormitory",
+    "building:levels": "5",
+    "name": "研究生公寓9号楼"
+  }
+},
+{
+  "type": "way",
+  "id": 283790554,
+  "bounds": {
+    "minlat": 30.5239469,
+    "minlon": 114.3954131,
+    "maxlat": 30.5242442,
+    "maxlon": 114.3960324
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "9",
+    "name": "中国地质大学继续教育咨询处"
+  }
+},
+{
+  "type": "way",
+  "id": 283791010,
+  "bounds": {
+    "minlat": 30.5218191,
+    "minlon": 114.3911474,
+    "maxlat": 30.5220297,
+    "maxlon": 114.3918933
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "学生公寓西区53栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283791011,
+  "bounds": {
+    "minlat": 30.5214605,
+    "minlon": 114.3911452,
+    "maxlat": 30.5217358,
+    "maxlon": 114.3919261
+  },
+  "tags": {
+    "building": "dormitory",
+    "building:levels": "0",
+    "name": "学生公寓西区63栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283791014,
+  "bounds": {
+    "minlat": 30.5206198,
+    "minlon": 114.3912011,
+    "maxlat": 30.5212384,
+    "maxlon": 114.3919449
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "学生公寓西区62栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283791015,
+  "bounds": {
+    "minlat": 30.5203436,
+    "minlon": 114.3912324,
+    "maxlat": 30.5207452,
+    "maxlon": 114.3919771
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "学生公寓西区60栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283792153,
+  "bounds": {
+    "minlat": 30.5253045,
+    "minlon": 114.3980818,
+    "maxlat": 30.5259114,
+    "maxlon": 114.3992644
+  },
+  "tags": {
+    "building": "yes",
+    "name": "中国地质大学宝谷创新创业中心"
+  }
+},
+{
+  "type": "way",
+  "id": 283792632,
+  "bounds": {
+    "minlat": 30.5234155,
+    "minlon": 114.3993076,
+    "maxlat": 30.5235148,
+    "maxlon": 114.3998999
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "研究生公寓10号楼"
+  }
+},
+{
+  "type": "way",
+  "id": 283996085,
+  "bounds": {
+    "minlat": 30.5239191,
+    "minlon": 114.4002649,
+    "maxlat": 30.5241156,
+    "maxlon": 114.4013250
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "研究生公寓8号楼"
+  }
+},
+{
+  "type": "way",
+  "id": 283996435,
+  "bounds": {
+    "minlat": 30.5219631,
+    "minlon": 114.4012500,
+    "maxlat": 30.5220673,
+    "maxlon": 114.4018568
+  },
+  "tags": {
+    "building": "university",
+    "name": "教育部长江三峡库区地质灾害研究中心"
+  }
+},
+{
+  "type": "way",
+  "id": 283996436,
+  "bounds": {
+    "minlat": 30.5230460,
+    "minlon": 114.3986116,
+    "maxlat": 30.5232837,
+    "maxlon": 114.3990216
+  },
+  "tags": {
+    "building": "dormitory",
+    "building:levels": "5",
+    "name": "研6栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283996437,
+  "bounds": {
+    "minlat": 30.5229339,
+    "minlon": 114.3986598,
+    "maxlat": 30.5230460,
+    "maxlon": 114.3990429
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "研5栋"
+  }
+},
+{
+  "type": "way",
+  "id": 283996944,
+  "bounds": {
+    "minlat": 30.5217276,
+    "minlon": 114.3986466,
+    "maxlat": 30.5220620,
+    "maxlon": 114.3990076
+  },
+  "tags": {
+    "building": "commercial",
+    "name": "地大幼儿园"
+  }
+},
+{
+  "type": "way",
+  "id": 283998899,
+  "bounds": {
+    "minlat": 30.5206826,
+    "minlon": 114.4009301,
+    "maxlat": 30.5208312,
+    "maxlon": 114.4015247
+  },
+  "tags": {
+    "building": "university",
+    "name": "信息工程学院"
+  }
+},
+{
+  "type": "way",
+  "id": 283999177,
+  "bounds": {
+    "minlat": 30.5203538,
+    "minlon": 114.4000485,
+    "maxlat": 30.5208213,
+    "maxlon": 114.4007133
+  },
+  "tags": {
+    "addr:city": "武汉",
+    "addr:district": "洪山区",
+    "addr:housenumber": "338",
+    "addr:postcode": "430074",
+    "addr:province": "湖北省",
+    "addr:street": "鲁磨路",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional;chinese",
+    "diet:local": "yes",
+    "name": "震旦园教工餐厅"
+  }
+},
+{
+  "type": "way",
+  "id": 283999184,
+  "bounds": {
+    "minlat": 30.5197779,
+    "minlon": 114.3989305,
+    "maxlat": 30.5203827,
+    "maxlon": 114.3998188
+  },
+  "tags": {
+    "building": "yes",
+    "name": "地质过程与矿产资源国家重点实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 283999187,
+  "bounds": {
+    "minlat": 30.5195228,
+    "minlon": 114.3996162,
+    "maxlat": 30.5196767,
+    "maxlon": 114.4001680
+  },
+  "tags": {
+    "building": "yes",
+    "name": "中国地质大学迎宾楼",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 301933406,
+  "bounds": {
+    "minlat": 30.5230926,
+    "minlon": 114.4000284,
+    "maxlat": 30.5232679,
+    "maxlon": 114.4006762
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese",
+    "delivery": "no",
+    "name": "东苑食堂",
+    "opening_hours": "7:00-20:00",
+    "smoking": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 306197350,
+  "bounds": {
+    "minlat": 30.5321206,
+    "minlon": 114.3957718,
+    "maxlat": 30.5326183,
+    "maxlon": 114.3965014
+  },
+  "tags": {
+    "building": "university",
+    "name": "艺术与传媒学院"
+  }
+},
+{
+  "type": "way",
+  "id": 332257436,
+  "bounds": {
+    "minlat": 30.5240716,
+    "minlon": 114.3935146,
+    "maxlat": 30.5242574,
+    "maxlon": 114.3940501
+  },
+  "tags": {
+    "building": "yes",
+    "name": "心理咨询中心"
+  }
+},
+{
+  "type": "way",
+  "id": 390176356,
+  "bounds": {
+    "minlat": 30.5172361,
+    "minlon": 114.4095495,
+    "maxlat": 30.5178016,
+    "maxlon": 114.4102146
+  },
+  "tags": {
+    "building": "yes",
+    "name": "经济学院",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 488404068,
+  "bounds": {
+    "minlat": 30.5215340,
+    "minlon": 114.4009083,
+    "maxlat": 30.5217312,
+    "maxlon": 114.4017415
+  },
+  "tags": {
+    "building": "university",
+    "name": "中国地质大学（武汉）丝绸之路学院及留学生宿舍"
+  }
+},
+{
+  "type": "way",
+  "id": 488404072,
+  "bounds": {
+    "minlat": 30.5217081,
+    "minlon": 114.3964637,
+    "maxlat": 30.5222078,
+    "maxlon": 114.3972464
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "中国地质大学（武汉）游泳馆",
+    "sport": "swimming"
+  }
+},
+{
+  "type": "way",
+  "id": 488421042,
+  "bounds": {
+    "minlat": 30.5234378,
+    "minlon": 114.3911585,
+    "maxlat": 30.5237930,
+    "maxlon": 114.3912708
+  },
+  "tags": {
+    "building": "university",
+    "name": "后勤公寓"
+  }
+},
+{
+  "type": "way",
+  "id": 488421043,
+  "bounds": {
+    "minlat": 30.5239537,
+    "minlon": 114.3904635,
+    "maxlat": 30.5241501,
+    "maxlon": 114.3910067
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "asian",
+    "fast_food": "cafeteria",
+    "name": "学二食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 622253549,
+  "bounds": {
+    "minlat": 30.5099210,
+    "minlon": 114.3904481,
+    "maxlat": 30.5106677,
+    "maxlon": 114.3914343
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "30",
+    "height": "15",
+    "name": "融众国际"
+  }
+},
+{
+  "type": "way",
+  "id": 674168561,
+  "bounds": {
+    "minlat": 30.5043734,
+    "minlon": 114.4010758,
+    "maxlat": 30.5047844,
+    "maxlon": 114.4017268
+  },
+  "tags": {
+    "brand": "华为",
+    "brand:en": "Huawei",
+    "brand:wikidata": "Q160120",
+    "brand:zh": "华为",
+    "building": "retail",
+    "building:levels": "2",
+    "name": "华为",
+    "name:en": "Huawei",
+    "name:zh": "华为",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "way",
+  "id": 674170501,
+  "bounds": {
+    "minlat": 30.5079796,
+    "minlon": 114.3985232,
+    "maxlat": 30.5089895,
+    "maxlon": 114.4008789
+  },
+  "tags": {
+    "air_conditioning": "yes",
+    "building": "yes",
+    "name": "世界城广场",
+    "name:en": "World City Plaza",
+    "name:zh-Hant": "世界城廣場",
+    "shop": "mall",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 690884959,
+  "bounds": {
+    "minlat": 30.5191519,
+    "minlon": 114.3966517,
+    "maxlat": 30.5199714,
+    "maxlon": 114.3975079
+  },
+  "tags": {
+    "building": "university",
+    "name": "中国地质大学教学综合楼AB座"
+  }
+},
+{
+  "type": "way",
+  "id": 692669573,
+  "bounds": {
+    "minlat": 30.5186631,
+    "minlon": 114.3966533,
+    "maxlat": 30.5189614,
+    "maxlon": 114.3974538
+  },
+  "tags": {
+    "building": "university",
+    "name": "中国地质大学教学综合楼C座"
+  }
+},
+{
+  "type": "way",
+  "id": 692669575,
+  "bounds": {
+    "minlat": 30.5183642,
+    "minlon": 114.3977721,
+    "maxlat": 30.5185717,
+    "maxlon": 114.3986993
+  },
+  "tags": {
+    "building": "university",
+    "name": "石材厂楼"
+  }
+},
+{
+  "type": "way",
+  "id": 692669577,
+  "bounds": {
+    "minlat": 30.5181375,
+    "minlon": 114.3977946,
+    "maxlat": 30.5183227,
+    "maxlon": 114.3986499
+  },
+  "tags": {
+    "building": "university",
+    "name": "学海楼"
+  }
+},
+{
+  "type": "way",
+  "id": 693240541,
+  "bounds": {
+    "minlat": 30.5263770,
+    "minlon": 114.3922948,
+    "maxlat": 30.5266295,
+    "maxlon": 114.3928590
+  },
+  "tags": {
+    "building": "university",
+    "name": "结构实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 772916027,
+  "bounds": {
+    "minlat": 30.5209140,
+    "minlon": 114.4032529,
+    "maxlat": 30.5211958,
+    "maxlon": 114.4038230
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "高层小区6栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 772916028,
+  "bounds": {
+    "minlat": 30.5215830,
+    "minlon": 114.4019938,
+    "maxlat": 30.5218647,
+    "maxlon": 114.4025641
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "高层小区5栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 772916029,
+  "bounds": {
+    "minlat": 30.5209360,
+    "minlon": 114.4020019,
+    "maxlat": 30.5212177,
+    "maxlon": 114.4025721
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "高层小区4栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 772916030,
+  "bounds": {
+    "minlat": 30.5189627,
+    "minlon": 114.4021977,
+    "maxlat": 30.5192445,
+    "maxlon": 114.4027679
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "高层小区1栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 772916031,
+  "bounds": {
+    "minlat": 30.5196351,
+    "minlon": 114.4021467,
+    "maxlat": 30.5199169,
+    "maxlon": 114.4027170
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "高层小区2栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 848480901,
+  "bounds": {
+    "minlat": 30.5225571,
+    "minlon": 114.3911894,
+    "maxlat": 30.5234001,
+    "maxlon": 114.3915249
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "学三食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 848480902,
+  "bounds": {
+    "minlat": 30.5225571,
+    "minlon": 114.3915249,
+    "maxlat": 30.5231697,
+    "maxlon": 114.3919109
+  },
+  "tags": {
+    "building": "yes",
+    "name": "弘毅堂"
+  }
+},
+{
+  "type": "way",
+  "id": 848480903,
+  "bounds": {
+    "minlat": 30.5233619,
+    "minlon": 114.3904767,
+    "maxlat": 30.5238002,
+    "maxlon": 114.3909993
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese",
+    "name": "西苑食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 848480908,
+  "bounds": {
+    "minlat": 30.5201925,
+    "minlon": 114.3933365,
+    "maxlat": 30.5204137,
+    "maxlon": 114.3944791
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "新峰公寓A"
+  }
+},
+{
+  "type": "way",
+  "id": 988817194,
+  "bounds": {
+    "minlat": 30.5131273,
+    "minlon": 114.4134768,
+    "maxlat": 30.5139365,
+    "maxlon": 114.4140776
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "东一食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 988851819,
+  "bounds": {
+    "minlat": 30.5164656,
+    "minlon": 114.4076912,
+    "maxlat": 30.5165962,
+    "maxlon": 114.4079162
+  },
+  "tags": {
+    "building": "office",
+    "name": "保卫处"
+  }
+},
+{
+  "type": "way",
+  "id": 988851820,
+  "bounds": {
+    "minlat": 30.5168736,
+    "minlon": 114.4076806,
+    "maxlat": 30.5169646,
+    "maxlon": 114.4079022
+  },
+  "tags": {
+    "amenity": "post_office",
+    "brand": "中国邮政",
+    "brand:en": "China Post",
+    "brand:wikidata": "Q1066476",
+    "brand:wikipedia": "zh:中国邮政",
+    "brand:zh": "中国邮政",
+    "building": "yes",
+    "name": "中国邮政",
+    "name:en": "China Post",
+    "name:zh": "中国邮政",
+    "operator": "中国邮政",
+    "operator:en": "China Post",
+    "operator:wikidata": "Q1066476",
+    "operator:wikipedia": "en:China Post",
+    "operator:zh": "中国邮政"
+  }
+},
+{
+  "type": "way",
+  "id": 988851821,
+  "bounds": {
+    "minlat": 30.5169393,
+    "minlon": 114.4078048,
+    "maxlat": 30.5170747,
+    "maxlon": 114.4081379
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "消防"
+  }
+},
+{
+  "type": "way",
+  "id": 1007360978,
+  "bounds": {
+    "minlat": 30.5156624,
+    "minlon": 114.4075805,
+    "maxlat": 30.5160296,
+    "maxlon": 114.4081538
+  },
+  "tags": {
+    "building": "yes",
+    "name": "工会"
+  }
+},
+{
+  "type": "way",
+  "id": 1007360991,
+  "bounds": {
+    "minlat": 30.5101587,
+    "minlon": 114.4095476,
+    "maxlat": 30.5108715,
+    "maxlon": 114.4103064
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "游泳馆",
+    "operator": "华中科技大学",
+    "sport": "swimming",
+    "start_date": "2023"
+  }
+},
+{
+  "type": "way",
+  "id": 1007589916,
+  "bounds": {
+    "minlat": 30.5082986,
+    "minlon": 114.4135600,
+    "maxlat": 30.5088086,
+    "maxlon": 114.4145364
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "中百仓储",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 1009117947,
+  "bounds": {
+    "minlat": 30.5155230,
+    "minlon": 114.4137962,
+    "maxlat": 30.5156912,
+    "maxlon": 114.4145041
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "2栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1009117949,
+  "bounds": {
+    "minlat": 30.5154472,
+    "minlon": 114.4146998,
+    "maxlat": 30.5156154,
+    "maxlon": 114.4154078
+  },
+  "tags": {
+    "building": "apartments",
+    "name": "4栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1012485922,
+  "bounds": {
+    "minlat": 30.5150009,
+    "minlon": 114.4109616,
+    "maxlat": 30.5151286,
+    "maxlon": 114.4113638
+  },
+  "tags": {
+    "building": "yes",
+    "name": "现代制造展示中心",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1012485923,
+  "bounds": {
+    "minlat": 30.5155792,
+    "minlon": 114.4084452,
+    "maxlat": 30.5160500,
+    "maxlon": 114.4089936
+  },
+  "tags": {
+    "building": "yes",
+    "name": "电信系用房",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1015415257,
+  "bounds": {
+    "minlat": 30.5200585,
+    "minlon": 114.4099404,
+    "maxlat": 30.5208046,
+    "maxlon": 114.4121381
+  },
+  "tags": {
+    "building": "yes",
+    "name": "精密重力测量科学中心",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153334,
+  "bounds": {
+    "minlat": 30.5204185,
+    "minlon": 114.4077605,
+    "maxlat": 30.5209825,
+    "maxlon": 114.4081391
+  },
+  "tags": {
+    "building": "yes",
+    "name": "精密重力测量二期",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153335,
+  "bounds": {
+    "minlat": 30.5204439,
+    "minlon": 114.4060730,
+    "maxlat": 30.5211144,
+    "maxlon": 114.4076884
+  },
+  "tags": {
+    "building": "yes",
+    "name": "精密重力测量科学中心B栋",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153367,
+  "bounds": {
+    "minlat": 30.5168779,
+    "minlon": 114.4094971,
+    "maxlat": 30.5170283,
+    "maxlon": 114.4098361
+  },
+  "tags": {
+    "building": "yes",
+    "name": "明仁楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153368,
+  "bounds": {
+    "minlat": 30.5166041,
+    "minlon": 114.4094635,
+    "maxlat": 30.5167545,
+    "maxlon": 114.4098026
+  },
+  "tags": {
+    "building": "yes",
+    "name": "明义楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153369,
+  "bounds": {
+    "minlat": 30.5162652,
+    "minlon": 114.4102004,
+    "maxlat": 30.5165252,
+    "maxlon": 114.4105996
+  },
+  "tags": {
+    "building": "yes",
+    "name": "修身楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153370,
+  "bounds": {
+    "minlat": 30.5163546,
+    "minlon": 114.4094235,
+    "maxlat": 30.5164938,
+    "maxlon": 114.4096315
+  },
+  "tags": {
+    "building": "yes",
+    "name": "九思书院"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153371,
+  "bounds": {
+    "minlat": 30.5163156,
+    "minlon": 114.4098378,
+    "maxlat": 30.5164548,
+    "maxlon": 114.4100458
+  },
+  "tags": {
+    "building": "yes",
+    "name": "明礼楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153372,
+  "bounds": {
+    "minlat": 30.5161948,
+    "minlon": 114.4109760,
+    "maxlat": 30.5164008,
+    "maxlon": 114.4113034
+  },
+  "tags": {
+    "building": "yes",
+    "name": "明智楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153373,
+  "bounds": {
+    "minlat": 30.5161607,
+    "minlon": 114.4113714,
+    "maxlat": 30.5163420,
+    "maxlon": 114.4117208
+  },
+  "tags": {
+    "building": "yes",
+    "name": "明信楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153374,
+  "bounds": {
+    "minlat": 30.5163867,
+    "minlon": 114.4114991,
+    "maxlat": 30.5165756,
+    "maxlon": 114.4117497
+  },
+  "tags": {
+    "building": "yes",
+    "name": "贤达楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153375,
+  "bounds": {
+    "minlat": 30.5164494,
+    "minlon": 114.4110057,
+    "maxlat": 30.5166050,
+    "maxlon": 114.4112636
+  },
+  "tags": {
+    "building": "yes",
+    "name": "东华园"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153376,
+  "bounds": {
+    "minlat": 30.5165032,
+    "minlon": 114.4107068,
+    "maxlat": 30.5166424,
+    "maxlon": 114.4109148
+  },
+  "tags": {
+    "building": "yes",
+    "name": "明道楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153377,
+  "bounds": {
+    "minlat": 30.5168073,
+    "minlon": 114.4107472,
+    "maxlat": 30.5169464,
+    "maxlon": 114.4109553
+  },
+  "tags": {
+    "building": "yes",
+    "name": "明诚楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153413,
+  "bounds": {
+    "minlat": 30.5160949,
+    "minlon": 114.4057477,
+    "maxlat": 30.5163279,
+    "maxlon": 114.4060138
+  },
+  "tags": {
+    "building": "university",
+    "name": "档案馆新楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153414,
+  "bounds": {
+    "minlat": 30.5143969,
+    "minlon": 114.4053726,
+    "maxlat": 30.5153383,
+    "maxlon": 114.4064090
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "name": "主校区图书馆"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153421,
+  "bounds": {
+    "minlat": 30.5127433,
+    "minlon": 114.4011361,
+    "maxlat": 30.5130561,
+    "maxlon": 114.4017466
+  },
+  "tags": {
+    "building": "yes",
+    "name": "电气楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153430,
+  "bounds": {
+    "minlat": 30.5155924,
+    "minlon": 114.4024204,
+    "maxlat": 30.5158302,
+    "maxlon": 114.4035247
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西五舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153431,
+  "bounds": {
+    "minlat": 30.5173228,
+    "minlon": 114.4025638,
+    "maxlat": 30.5176218,
+    "maxlon": 114.4034703
+  },
+  "tags": {
+    "building": "residential",
+    "name": "西九舍",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153483,
+  "bounds": {
+    "minlat": 30.5179844,
+    "minlon": 114.4056514,
+    "maxlat": 30.5184968,
+    "maxlon": 114.4061034
+  },
+  "tags": {
+    "building": "yes",
+    "name": "一号楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153485,
+  "bounds": {
+    "minlat": 30.5171322,
+    "minlon": 114.4056008,
+    "maxlat": 30.5174328,
+    "maxlon": 114.4059169
+  },
+  "tags": {
+    "building": "yes",
+    "name": "八号楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153563,
+  "bounds": {
+    "minlat": 30.5099527,
+    "minlon": 114.4122290,
+    "maxlat": 30.5108067,
+    "maxlon": 114.4131634
+  },
+  "tags": {
+    "building": "yes",
+    "height": "30",
+    "leisure": "sports_centre",
+    "level": "1",
+    "name": "光谷体育馆",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153567,
+  "bounds": {
+    "minlat": 30.5183265,
+    "minlon": 114.4088842,
+    "maxlat": 30.5186608,
+    "maxlon": 114.4094978
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "喻园餐厅"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153571,
+  "bounds": {
+    "minlat": 30.5138620,
+    "minlon": 114.4155727,
+    "maxlat": 30.5141397,
+    "maxlon": 114.4164614
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东七舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153572,
+  "bounds": {
+    "minlat": 30.5133896,
+    "minlon": 114.4155171,
+    "maxlat": 30.5136673,
+    "maxlon": 114.4164058
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东六舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153573,
+  "bounds": {
+    "minlat": 30.5129276,
+    "minlon": 114.4154637,
+    "maxlat": 30.5131304,
+    "maxlon": 114.4161706
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东一舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153574,
+  "bounds": {
+    "minlat": 30.5110966,
+    "minlon": 114.4154633,
+    "maxlat": 30.5112944,
+    "maxlon": 114.4162183
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东十三舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153575,
+  "bounds": {
+    "minlat": 30.5114455,
+    "minlon": 114.4155097,
+    "maxlat": 30.5116450,
+    "maxlon": 114.4162818
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东十二舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153576,
+  "bounds": {
+    "minlat": 30.5117666,
+    "minlon": 114.4155522,
+    "maxlat": 30.5119661,
+    "maxlon": 114.4163244
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东十一舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153577,
+  "bounds": {
+    "minlat": 30.5121090,
+    "minlon": 114.4155976,
+    "maxlat": 30.5123085,
+    "maxlon": 114.4163698
+  },
+  "tags": {
+    "building": "residential",
+    "name": "东十舍",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153586,
+  "bounds": {
+    "minlat": 30.5111104,
+    "minlon": 114.4113373,
+    "maxlat": 30.5112793,
+    "maxlon": 114.4115601
+  },
+  "tags": {
+    "building": "yes",
+    "name": "快速制造中心",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023153587,
+  "bounds": {
+    "minlat": 30.5110023,
+    "minlon": 114.4097519,
+    "maxlat": 30.5114636,
+    "maxlon": 114.4104992
+  },
+  "tags": {
+    "building": "yes",
+    "name": "南五楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023544705,
+  "bounds": {
+    "minlat": 30.5085057,
+    "minlon": 114.4290633,
+    "maxlat": 30.5090091,
+    "maxlon": 114.4294515
+  },
+  "tags": {
+    "building": "yes",
+    "frequency": "50",
+    "name": "国网华科110kV变电站",
+    "operator": "国家电网",
+    "power": "converter",
+    "voltage": "110000"
+  }
+},
+{
+  "type": "way",
+  "id": 1023544709,
+  "bounds": {
+    "minlat": 30.5112547,
+    "minlon": 114.4278834,
+    "maxlat": 30.5122823,
+    "maxlon": 114.4291115
+  },
+  "tags": {
+    "building": "yes",
+    "name": "脉冲强磁场实验室",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023544711,
+  "bounds": {
+    "minlat": 30.5111302,
+    "minlon": 114.4244827,
+    "maxlat": 30.5114167,
+    "maxlon": 114.4248225
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "12",
+    "name": "恩明楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023544714,
+  "bounds": {
+    "minlat": 30.5141533,
+    "minlon": 114.4203203,
+    "maxlat": 30.5142862,
+    "maxlon": 114.4208343
+  },
+  "tags": {
+    "building": "yes",
+    "name": "综合动力站"
+  }
+},
+{
+  "type": "way",
+  "id": 1023544715,
+  "bounds": {
+    "minlat": 30.5136086,
+    "minlon": 114.4266681,
+    "maxlat": 30.5138513,
+    "maxlon": 114.4274912
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑一栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023544716,
+  "bounds": {
+    "minlat": 30.5139953,
+    "minlon": 114.4267179,
+    "maxlat": 30.5142380,
+    "maxlon": 114.4275409
+  },
+  "tags": {
+    "building": "residential",
+    "building:levels": "6",
+    "name": "韵苑二栋",
+    "operator": "华中科技大学",
+    "residential": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 1023544717,
+  "bounds": {
+    "minlat": 30.5149797,
+    "minlon": 114.4203312,
+    "maxlat": 30.5165372,
+    "maxlon": 114.4221485
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "5",
+    "name": "东九教学楼",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023602755,
+  "bounds": {
+    "minlat": 30.5151185,
+    "minlon": 114.4095200,
+    "maxlat": 30.5152462,
+    "maxlon": 114.4099222
+  },
+  "tags": {
+    "building": "yes",
+    "name": "精密智能车间",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1023929905,
+  "bounds": {
+    "minlat": 30.5121390,
+    "minlon": 114.4076295,
+    "maxlat": 30.5122711,
+    "maxlon": 114.4079268
+  },
+  "tags": {
+    "building": "yes",
+    "name": "南六楼配电房",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 1023929907,
+  "bounds": {
+    "minlat": 30.5126639,
+    "minlon": 114.3965810,
+    "maxlat": 30.5130378,
+    "maxlon": 114.3972955
+  },
+  "tags": {
+    "building": "yes",
+    "name": "紫菘学生活动空间",
+    "operator": "华中科技大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1030950846,
+  "bounds": {
+    "minlat": 30.5062581,
+    "minlon": 114.4081020,
+    "maxlat": 30.5067318,
+    "maxlon": 114.4086389
+  },
+  "tags": {
+    "building": "commercial",
+    "name": "泛悦城写字楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1030950848,
+  "bounds": {
+    "minlat": 30.5069090,
+    "minlon": 114.4082252,
+    "maxlat": 30.5074733,
+    "maxlon": 114.4085982
+  },
+  "tags": {
+    "building": "yes",
+    "name": "泛悦城商店街",
+    "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 1030950852,
+  "bounds": {
+    "minlat": 30.5082226,
+    "minlon": 114.4084819,
+    "maxlat": 30.5085304,
+    "maxlon": 114.4087415
+  },
+  "tags": {
+    "building": "commercial",
+    "name": "泛悦城写字楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1031541638,
+  "bounds": {
+    "minlat": 30.5031193,
+    "minlon": 114.4317029,
+    "maxlat": 30.5032837,
+    "maxlon": 114.4319258
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "mosque",
+    "name": "马家庄清真寺",
+    "religion": "muslim"
+  }
+},
+{
+  "type": "way",
+  "id": 1033663112,
+  "bounds": {
+    "minlat": 30.5069944,
+    "minlon": 114.4314034,
+    "maxlat": 30.5073696,
+    "maxlon": 114.4318973
+  },
+  "tags": {
+    "building": "yes",
+    "name": "百货超市",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 1047432452,
+  "bounds": {
+    "minlat": 30.5080039,
+    "minlon": 114.4054445,
+    "maxlat": 30.5083758,
+    "maxlon": 114.4057929
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "武汉长动医院"
+  }
+},
+{
+  "type": "way",
+  "id": 1047625673,
+  "bounds": {
+    "minlat": 30.5057671,
+    "minlon": 114.4049556,
+    "maxlat": 30.5060362,
+    "maxlon": 114.4052844
+  },
+  "tags": {
+    "building": "yes",
+    "name": "常青藤瀚景苑B座"
+  }
+},
+{
+  "type": "way",
+  "id": 1047625674,
+  "bounds": {
+    "minlat": 30.5057973,
+    "minlon": 114.4045147,
+    "maxlat": 30.5060639,
+    "maxlon": 114.4048230
+  },
+  "tags": {
+    "building": "yes",
+    "name": "常青藤瀚景苑A座"
+  }
+},
+{
+  "type": "way",
+  "id": 1047667956,
+  "bounds": {
+    "minlat": 30.5032921,
+    "minlon": 114.4063551,
+    "maxlat": 30.5036400,
+    "maxlon": 114.4065875
+  },
+  "tags": {
+    "brand": "比亚迪",
+    "brand:en": "BYD",
+    "brand:wikidata": "Q27423",
+    "brand:zh": "比亚迪",
+    "building": "yes",
+    "name": "比亚迪",
+    "name:en": "BYD",
+    "name:zh": "比亚迪",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 1056201332,
+  "bounds": {
+    "minlat": 30.5067041,
+    "minlon": 114.4155452,
+    "maxlat": 30.5068905,
+    "maxlon": 114.4160538
+  },
+  "tags": {
+    "building": "yes",
+    "name": "剑桥春天物业"
+  }
+},
+{
+  "type": "way",
+  "id": 1093209352,
+  "bounds": {
+    "minlat": 30.5016437,
+    "minlon": 114.4334904,
+    "maxlat": 30.5036998,
+    "maxlon": 114.4353779
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "颐和尚景"
+  }
+},
+{
+  "type": "way",
+  "id": 1095293355,
+  "bounds": {
+    "minlat": 30.5069421,
+    "minlon": 114.4261640,
+    "maxlat": 30.5075268,
+    "maxlon": 114.4270492
+  },
+  "tags": {
+    "building": "yes",
+    "name": "惠谷时空"
+  }
+},
+{
+  "type": "way",
+  "id": 1228689191,
+  "bounds": {
+    "minlat": 30.5118981,
+    "minlon": 114.4233117,
+    "maxlat": 30.5133504,
+    "maxlon": 114.4255936
+  },
+  "tags": {
+    "building": "yes",
+    "layer": "1",
+    "name": "计算机与人工智能大楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1228766351,
+  "bounds": {
+    "minlat": 30.5212549,
+    "minlon": 114.3993373,
+    "maxlat": 30.5213494,
+    "maxlon": 114.3995899
+  },
+  "tags": {
+    "addr:city": "武汉",
+    "addr:district": "洪山区",
+    "addr:housenumber": "338",
+    "addr:postcode": "430074",
+    "addr:province": "湖北省",
+    "addr:street": "鲁磨路",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "coffee_shop;burger;chinese",
+    "name": "胡馨园餐厅"
+  }
+},
+{
+  "type": "way",
+  "id": 1230375673,
+  "bounds": {
+    "minlat": 30.5019913,
+    "minlon": 114.4286131,
+    "maxlat": 30.5028958,
+    "maxlon": 114.4301788
+  },
+  "tags": {
+    "building": "yes",
+    "name": "中国武汉留学生创业园"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916818,
+  "bounds": {
+    "minlat": 30.5169970,
+    "minlon": 114.4174438,
+    "maxlat": 30.5171021,
+    "maxlon": 114.4175843
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C721栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916819,
+  "bounds": {
+    "minlat": 30.5168601,
+    "minlon": 114.4174591,
+    "maxlat": 30.5169652,
+    "maxlon": 114.4175996
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C725栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916820,
+  "bounds": {
+    "minlat": 30.5169765,
+    "minlon": 114.4176169,
+    "maxlat": 30.5170816,
+    "maxlon": 114.4177574
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C722栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916821,
+  "bounds": {
+    "minlat": 30.5168392,
+    "minlon": 114.4176336,
+    "maxlat": 30.5169443,
+    "maxlon": 114.4177741
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C726栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916822,
+  "bounds": {
+    "minlat": 30.5168248,
+    "minlon": 114.4178066,
+    "maxlat": 30.5169299,
+    "maxlon": 114.4179470
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C758栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916823,
+  "bounds": {
+    "minlat": 30.5169673,
+    "minlon": 114.4177777,
+    "maxlat": 30.5170724,
+    "maxlon": 114.4179182
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C723栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916824,
+  "bounds": {
+    "minlat": 30.5169556,
+    "minlon": 114.4179613,
+    "maxlat": 30.5170607,
+    "maxlon": 114.4181018
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C878栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916825,
+  "bounds": {
+    "minlat": 30.5168105,
+    "minlon": 114.4179704,
+    "maxlat": 30.5169156,
+    "maxlon": 114.4181109
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C879栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916826,
+  "bounds": {
+    "minlat": 30.5169373,
+    "minlon": 114.4181404,
+    "maxlat": 30.5170424,
+    "maxlon": 114.4182808
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C728栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916827,
+  "bounds": {
+    "minlat": 30.5167948,
+    "minlon": 114.4181722,
+    "maxlat": 30.5168999,
+    "maxlon": 114.4183127
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C731栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916828,
+  "bounds": {
+    "minlat": 30.5169111,
+    "minlon": 114.4183103,
+    "maxlat": 30.5170162,
+    "maxlon": 114.4184508
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C729栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916829,
+  "bounds": {
+    "minlat": 30.5168889,
+    "minlon": 114.4184757,
+    "maxlat": 30.5169940,
+    "maxlon": 114.4186162
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C730栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916830,
+  "bounds": {
+    "minlat": 30.5166667,
+    "minlon": 114.4194210,
+    "maxlat": 30.5167718,
+    "maxlon": 114.4195614
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C751栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916831,
+  "bounds": {
+    "minlat": 30.5167922,
+    "minlon": 114.4194558,
+    "maxlat": 30.5168973,
+    "maxlon": 114.4195963
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C738栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916832,
+  "bounds": {
+    "minlat": 30.5167843,
+    "minlon": 114.4196015,
+    "maxlat": 30.5168894,
+    "maxlon": 114.4197420
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C739栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916833,
+  "bounds": {
+    "minlat": 30.5167686,
+    "minlon": 114.4197517,
+    "maxlat": 30.5168737,
+    "maxlon": 114.4198922
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C750栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916834,
+  "bounds": {
+    "minlat": 30.5166562,
+    "minlon": 114.4195787,
+    "maxlat": 30.5167613,
+    "maxlon": 114.4197192
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C752栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916835,
+  "bounds": {
+    "minlat": 30.5166471,
+    "minlon": 114.4197244,
+    "maxlat": 30.5167522,
+    "maxlon": 114.4198649
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C753栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916836,
+  "bounds": {
+    "minlat": 30.5168549,
+    "minlon": 114.4188307,
+    "maxlat": 30.5169600,
+    "maxlon": 114.4189712
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C735栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916837,
+  "bounds": {
+    "minlat": 30.5168405,
+    "minlon": 114.4189794,
+    "maxlat": 30.5169456,
+    "maxlon": 114.4191199
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C736栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231916841,
+  "bounds": {
+    "minlat": 30.5168132,
+    "minlon": 114.4191948,
+    "maxlat": 30.5169181,
+    "maxlon": 114.4193719
+  },
+  "tags": {
+    "building": "yes",
+    "name": "C875栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1231928675,
+  "bounds": {
+    "minlat": 30.5123920,
+    "minlon": 114.3947219,
+    "maxlat": 30.5126665,
+    "maxlon": 114.3957326
+  },
+  "tags": {
+    "building": "yes",
+    "name": "D栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1234253692,
+  "bounds": {
+    "minlat": 30.5071964,
+    "minlon": 114.4273334,
+    "maxlat": 30.5074360,
+    "maxlon": 114.4275275
+  },
+  "tags": {
+    "building": "industrial",
+    "building:levels": "2",
+    "height": "7",
+    "name": "办公楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1234253693,
+  "bounds": {
+    "minlat": 30.5073009,
+    "minlon": 114.4275649,
+    "maxlat": 30.5074107,
+    "maxlon": 114.4279816
+  },
+  "tags": {
+    "building": "industrial",
+    "building:levels": "7",
+    "height": "4",
+    "name": "办公楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1234253694,
+  "bounds": {
+    "minlat": 30.5071363,
+    "minlon": 114.4275376,
+    "maxlat": 30.5072452,
+    "maxlon": 114.4279502
+  },
+  "tags": {
+    "building": "industrial",
+    "building:levels": "7",
+    "height": "4",
+    "name": "办公楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1234253695,
+  "bounds": {
+    "minlat": 30.5073419,
+    "minlon": 114.4280078,
+    "maxlat": 30.5074821,
+    "maxlon": 114.4284164
+  },
+  "tags": {
+    "building": "industrial",
+    "height": "7",
+    "name": "办公楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1271169444,
+  "bounds": {
+    "minlat": 30.5032737,
+    "minlon": 114.4044279,
+    "maxlat": 30.5039132,
+    "maxlon": 114.4048967
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "seafood",
+    "landuse": "commercial",
+    "name": "龙虾殿"
+  }
+},
+{
+  "type": "way",
+  "id": 1272457990,
+  "bounds": {
+    "minlat": 30.5058721,
+    "minlon": 114.4004636,
+    "maxlat": 30.5064071,
+    "maxlon": 114.4009648
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "0",
+    "height": "5",
+    "name": "瑜越东方大门"
+  }
+},
+{
+  "type": "way",
+  "id": 1300552202,
+  "bounds": {
+    "minlat": 30.5120141,
+    "minlon": 114.4003662,
+    "maxlat": 30.5125020,
+    "maxlon": 114.4010491
+  },
+  "tags": {
+    "building": "university",
+    "name": "大禹科技楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1338987944,
+  "bounds": {
+    "minlat": 30.5201603,
+    "minlon": 114.3977647,
+    "maxlat": 30.5206221,
+    "maxlon": 114.3984580
+  },
+  "tags": {
+    "building": "yes",
+    "name": "校史馆"
+  }
+},
+{
+  "type": "way",
+  "id": 1462060416,
+  "bounds": {
+    "minlat": 30.5232167,
+    "minlon": 114.3933998,
+    "maxlat": 30.5237767,
+    "maxlon": 114.3939904
+  },
+  "tags": {
+    "building": "school",
+    "name": "教三楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1462095266,
+  "bounds": {
+    "minlat": 30.5248307,
+    "minlon": 114.3953787,
+    "maxlat": 30.5260737,
+    "maxlon": 114.3971838
+  },
+  "tags": {
+    "building": "yes",
+    "layer": "-1",
+    "name": "中国地质大学地质调查研究院",
+    "office": "research"
+  }
+},
+{
+  "type": "way",
+  "id": 1462095267,
+  "bounds": {
+    "minlat": 30.5256708,
+    "minlon": 114.3988435,
+    "maxlat": 30.5258415,
+    "maxlon": 114.3990771
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "麦当劳",
+    "brand:en": "McDonald's",
+    "brand:wikidata": "Q38076",
+    "brand:zh": "麦当劳",
+    "building": "yes",
+    "cuisine": "burger",
+    "name": "麦当劳",
+    "name:en": "McDonald's",
+    "name:zh": "麦当劳",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1462095268,
+  "bounds": {
+    "minlat": 30.5267067,
+    "minlon": 114.3994082,
+    "maxlat": 30.5268957,
+    "maxlon": 114.3996170
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "川菜",
+    "name": "小骆川"
+  }
+},
+{
+  "type": "way",
+  "id": 1462095269,
+  "bounds": {
+    "minlat": 30.5244749,
+    "minlon": 114.3904048,
+    "maxlat": 30.5245677,
+    "maxlon": 114.3905318
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "layer": "1",
+    "name": "南望小食"
+  }
+},
+{
+  "type": "way",
+  "id": 1462095270,
+  "bounds": {
+    "minlat": 30.5244793,
+    "minlon": 114.3905420,
+    "maxlat": 30.5245651,
+    "maxlon": 114.3906660
+  },
+  "tags": {
+    "building": "yes",
+    "name": "零小慧",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 1462095271,
+  "bounds": {
+    "minlat": 30.5247525,
+    "minlon": 114.3911281,
+    "maxlat": 30.5253215,
+    "maxlon": 114.3920022
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "宿舍51栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1463173437,
+  "bounds": {
+    "minlat": 30.5257825,
+    "minlon": 114.3916897,
+    "maxlat": 30.5259577,
+    "maxlon": 114.3918930
+  },
+  "tags": {
+    "building": "yes",
+    "name": "学生宿管办"
+  }
+},
+{
+  "type": "way",
+  "id": 1463173443,
+  "bounds": {
+    "minlat": 30.5199604,
+    "minlon": 114.3938402,
+    "maxlat": 30.5201005,
+    "maxlon": 114.3943219
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "新峰公寓B"
+  }
+},
+{
+  "type": "way",
+  "id": 1463173444,
+  "bounds": {
+    "minlat": 30.5199779,
+    "minlon": 114.3933157,
+    "maxlat": 30.5200883,
+    "maxlon": 114.3937406
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "新峰公寓C"
+  }
+},
+{
+  "type": "way",
+  "id": 1463173446,
+  "bounds": {
+    "minlat": 30.5175877,
+    "minlon": 114.3977552,
+    "maxlat": 30.5181060,
+    "maxlon": 114.3985907
+  },
+  "tags": {
+    "building": "yes",
+    "name": "运输服务中心"
+  }
+},
+{
+  "type": "way",
+  "id": 1463177779,
+  "bounds": {
+    "minlat": 30.5260949,
+    "minlon": 114.4070783,
+    "maxlat": 30.5264993,
+    "maxlon": 114.4078669
+  },
+  "tags": {
+    "building": "yes",
+    "name": "光权汽车轮胎经营部",
+    "shop": "tyres"
+  }
+},
+{
+  "type": "way",
+  "id": 1463177780,
+  "bounds": {
+    "minlat": 30.5260545,
+    "minlon": 114.4060773,
+    "maxlat": 30.5277920,
+    "maxlon": 114.4102138
+  },
+  "tags": {
+    "building": "yes",
+    "layer": "-1",
+    "name": "楚云别院",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "way",
+  "id": 1484333084,
+  "bounds": {
+    "minlat": 30.5146677,
+    "minlon": 114.4291801,
+    "maxlat": 30.5149756,
+    "maxlon": 114.4293371
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "name": "荡桨池"
+  }
+},
+{
+  "type": "way",
+  "id": 1487063534,
+  "bounds": {
+    "minlat": 30.5202836,
+    "minlon": 114.4233566,
+    "maxlat": 30.5206731,
+    "maxlon": 114.4238990
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "食堂"
+  }
+},
+{
+  "type": "way",
+  "id": 1487063540,
+  "bounds": {
+    "minlat": 30.5196470,
+    "minlon": 114.4096543,
+    "maxlat": 30.5199597,
+    "maxlon": 114.4097872
+  },
+  "tags": {
+    "amenity": "community_centre",
+    "building": "yes",
+    "community_centre": "community_hall",
+    "name": "老年大学"
+  }
+},
+{
+  "type": "way",
+  "id": 1487063542,
+  "bounds": {
+    "minlat": 30.5191470,
+    "minlon": 114.4076599,
+    "maxlat": 30.5192928,
+    "maxlon": 114.4078559
+  },
+  "tags": {
+    "building": "university",
+    "name": "配电室"
+  }
+},
+{
+  "type": "way",
+  "id": 1487082912,
+  "bounds": {
+    "minlat": 30.5142487,
+    "minlon": 114.4156158,
+    "maxlat": 30.5144456,
+    "maxlon": 114.4164993
+  },
+  "tags": {
+    "building": "university",
+    "name": "液压机械零件室及海水测试中心"
+  }
+},
+{
+  "type": "way",
+  "id": 1487082913,
+  "bounds": {
+    "minlat": 30.5129082,
+    "minlon": 114.3988907,
+    "maxlat": 30.5132568,
+    "maxlon": 114.3991509
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "紫菘公寓17栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1487082914,
+  "bounds": {
+    "minlat": 30.5129222,
+    "minlon": 114.3987772,
+    "maxlat": 30.5131826,
+    "maxlon": 114.3989015
+  },
+  "tags": {
+    "building": "dormitory",
+    "name": "紫菘公寓18栋"
+  }
+},
+{
+  "type": "way",
+  "id": 1487082915,
+  "bounds": {
+    "minlat": 30.5132612,
+    "minlon": 114.4033555,
+    "maxlat": 30.5134281,
+    "maxlon": 114.4036334
+  },
+  "tags": {
+    "building": "university",
+    "name": "水电能源实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 1487082916,
+  "bounds": {
+    "minlat": 30.5130393,
+    "minlon": 114.4027748,
+    "maxlat": 30.5132634,
+    "maxlon": 114.4035485
+  },
+  "tags": {
+    "building": "university",
+    "name": "水工实验室"
+  }
+},
+{
+  "type": "way",
+  "id": 1487082917,
+  "bounds": {
+    "minlat": 30.5115117,
+    "minlon": 114.4042525,
+    "maxlat": 30.5117227,
+    "maxlon": 114.4046239
+  },
+  "tags": {
+    "building": "university",
+    "name": "信访办"
+  }
+},
+{
+  "type": "way",
+  "id": 1487082919,
+  "bounds": {
+    "minlat": 30.5117165,
+    "minlon": 114.4029518,
+    "maxlat": 30.5119108,
+    "maxlon": 114.4031608
+  },
+  "tags": {
+    "building": "university",
+    "name": "西区配电室"
+  }
+},
+{
+  "type": "way",
+  "id": 1494106736,
+  "bounds": {
+    "minlat": 30.5365168,
+    "minlon": 114.3903424,
+    "maxlat": 30.5368117,
+    "maxlon": 114.3908112
+  },
+  "tags": {
+    "building": "hospital",
+    "name": "养怡楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1494106743,
+  "bounds": {
+    "minlat": 30.5371929,
+    "minlon": 114.3909047,
+    "maxlat": 30.5387909,
+    "maxlon": 114.3917591
+  },
+  "tags": {
+    "building": "hospital",
+    "name": "康健楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1494106765,
+  "bounds": {
+    "minlat": 30.5390040,
+    "minlon": 114.3900396,
+    "maxlat": 30.5392878,
+    "maxlon": 114.3904326
+  },
+  "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "东湖医院警务室"
+  }
+},
+{
+  "type": "way",
+  "id": 1494116114,
+  "bounds": {
+    "minlat": 30.5344795,
+    "minlon": 114.3930593,
+    "maxlat": 30.5346389,
+    "maxlon": 114.3935608
+  },
+  "tags": {
+    "addr:city": "武汉市",
+    "addr:district": "洪山区",
+    "addr:neighbourhood": "东湖医院小区",
+    "addr:postcode": "430074",
+    "addr:province": "湖北省",
+    "addr:street": "东湖东路",
+    "addr:unit": "69栋",
+    "building": "apartments",
+    "name": "康健楼"
+  }
+},
+{
+  "type": "way",
+  "id": 1507299133,
+  "bounds": {
+    "minlat": 30.5117981,
+    "minlon": 114.4370429,
+    "maxlat": 30.5119900,
+    "maxlon": 114.4373045
+  },
+  "tags": {
+    "building": "yes",
+    "name": "博得自然"
+  }
+},
+{
+  "type": "way",
+  "id": 1528757567,
+  "bounds": {
+    "minlat": 30.5152172,
+    "minlon": 114.4310443,
+    "maxlat": 30.5156132,
+    "maxlon": 114.4311938
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "4",
+    "name": "多普楼"
+  }
+},
+{
+  "type": "relation",
+  "id": 9368629,
+  "bounds": {
+    "minlat": 30.5062447,
+    "minlon": 114.3951608,
+    "maxlat": 30.5086527,
+    "maxlon": 114.3982922
+  },
+  "tags": {
+    "building": "retail",
+    "name": "世界城．光谷步行街",
+    "name:zh": "光谷．世界城步行街",
+    "shop": "mall",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 10138626,
+  "bounds": {
+    "minlat": 30.5062388,
+    "minlon": 114.3919119,
+    "maxlat": 30.5069344,
+    "maxlon": 114.3930894
+  },
+  "tags": {
+    "building": "residential",
+    "name": "尖東智能花園",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13699932,
+  "bounds": {
+    "minlat": 30.5162347,
+    "minlon": 114.4106283,
+    "maxlat": 30.5164817,
+    "maxlon": 114.4108806
+  },
+  "tags": {
+    "building": "yes",
+    "name": "会饮咖啡厅",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13699933,
+  "bounds": {
+    "minlat": 30.5108433,
+    "minlon": 114.4006395,
+    "maxlat": 30.5115492,
+    "maxlon": 114.4025183
+  },
+  "tags": {
+    "amenity": "public_building",
+    "building": "university",
+    "name": "西十二楼",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13705821,
+  "bounds": {
+    "minlat": 30.5083494,
+    "minlon": 114.4277725,
+    "maxlat": 30.5108546,
+    "maxlon": 114.4291378
+  },
+  "tags": {
+    "building": "yes",
+    "name": "新光电信息大楼",
+    "operator": "华中科技大学",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13799529,
+  "bounds": {
+    "minlat": 30.5075350,
+    "minlon": 114.4081986,
+    "maxlat": 30.5083540,
+    "maxlon": 114.4087055
+  },
+  "tags": {
+    "building": "yes",
+    "name": "泛悦城商店街",
+    "shop": "mall",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 18571579,
+  "bounds": {
+    "minlat": 30.4999120,
+    "minlon": 114.4048097,
+    "maxlat": 30.5007273,
+    "maxlon": 114.4059950
+  },
+  "tags": {
+    "building": "apartments",
+    "height": "60",
+    "name": "保利花园3期",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20304918,
+  "bounds": {
+    "minlat": 30.5193004,
+    "minlon": 114.4096152,
+    "maxlat": 30.5196417,
+    "maxlon": 114.4100590
+  },
+  "tags": {
+    "amenity": "community_centre",
+    "building": "yes",
+    "community_centre": "community_hall",
+    "name": "老年活动中心",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20304919,
+  "bounds": {
+    "minlat": 30.5187384,
+    "minlon": 114.4076391,
+    "maxlat": 30.5191135,
+    "maxlon": 114.4079532
+  },
+  "tags": {
+    "building": "university",
+    "name": "锅炉房",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20305055,
+  "bounds": {
+    "minlat": 30.5116969,
+    "minlon": 114.4031642,
+    "maxlat": 30.5121508,
+    "maxlon": 114.4037883
+  },
+  "tags": {
+    "building": "university;yes",
+    "name": "新动模实验室",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20973246,
+  "bounds": {
+    "minlat": 30.5151360,
+    "minlon": 114.4119097,
+    "maxlat": 30.5158365,
+    "maxlon": 114.4135298
+  },
+  "tags": {
+    "building": "yes",
+    "name": "先进制造大楼东楼",
+    "operator": "华中科技大学",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20973247,
+  "bounds": {
+    "minlat": 30.5147246,
+    "minlon": 114.4056821,
+    "maxlat": 30.5153173,
+    "maxlon": 114.4065644
+  },
+  "tags": {
+    "amenity": "library",
+    "building": "yes",
+    "name": "主校区图书馆新馆 逸夫图书馆",
+    "operator": "华中科技大学",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

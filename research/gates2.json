@@ -1,0 +1,183 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-19T08:52:14Z",
+    "timestamp_areas_base": "2026-10-19T02:22:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1260855436,
+  "lat": 30.5124895,
+  "lon": 114.3959068,
+  "tags": {
+    "access": "permit",
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "locked": "no",
+    "material": "metal",
+    "moped": "yes",
+    "motor_vehicle": "no",
+    "motorcycle": "yes",
+    "name": "华中科技大学西小门(紫菘门)",
+    "swing_gate:type": "紫菘门",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2877837882,
+  "lat": 30.5194636,
+  "lon": 114.4004235,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motor_vehicle": "yes",
+    "name": "喻家山庄西门"
+  }
+},
+{
+  "type": "node",
+  "id": 2877837891,
+  "lat": 30.5201987,
+  "lon": 114.4018046,
+  "tags": {
+    "barrier": "gate",
+    "name": "喻家山庄北门"
+  }
+},
+{
+  "type": "node",
+  "id": 3089153546,
+  "lat": 30.5220911,
+  "lon": 114.4027999,
+  "tags": {
+    "barrier": "gate",
+    "motor_vehicle": "no",
+    "name": "地大东区东门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807101959,
+  "lat": 30.5175211,
+  "lon": 114.3977309,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motor_vehicle": "yes",
+    "name": "中国地质大学（武汉）东区南门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807102323,
+  "lat": 30.5236573,
+  "lon": 114.4021238,
+  "tags": {
+    "barrier": "gate",
+    "name": "地大附校门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807102395,
+  "lat": 30.5219916,
+  "lon": 114.4030705,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "permit",
+    "foot": "permit",
+    "name": "西北门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807102397,
+  "lat": 30.5331006,
+  "lon": 114.3925678,
+  "tags": {
+    "barrier": "gate",
+    "name": "中国地质大学（武汉）北区大门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807242063,
+  "lat": 30.5249802,
+  "lon": 114.3935672,
+  "tags": {
+    "barrier": "gate",
+    "name": "南望山庄西门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807859893,
+  "lat": 30.5228726,
+  "lon": 114.3959418,
+  "tags": {
+    "access": "no",
+    "barrier": "gate",
+    "name": "中国地质大学西二门"
+  }
+},
+{
+  "type": "node",
+  "id": 4807859896,
+  "lat": 30.5228688,
+  "lon": 114.3962396,
+  "tags": {
+    "barrier": "gate",
+    "name": "中国地质大学东二门"
+  }
+},
+{
+  "type": "node",
+  "id": 9442093347,
+  "lat": 30.5102460,
+  "lon": 114.4080447,
+  "tags": {
+    "access": "permit",
+    "barrier": "gate",
+    "bicycle": "permit",
+    "entrance": "main",
+    "foot": "permit",
+    "name": "南大门",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9442093348,
+  "lat": 30.5102768,
+  "lon": 114.4076353,
+  "tags": {
+    "access": "permit",
+    "barrier": "gate",
+    "bicycle": "permit",
+    "entrance": "main",
+    "foot": "permit",
+    "name": "南大门",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11816035306,
+  "lat": 30.5061304,
+  "lon": 114.4006987,
+  "tags": {
+    "barrier": "gate",
+    "name": "正门"
+  }
+}
+
+  ]
+}
